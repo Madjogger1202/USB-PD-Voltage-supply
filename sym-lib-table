@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESDA25P35-1U1M")(type "KiCad")(uri "${KIPRJMOD}/library/ESDA25P35-1U1M.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS55289RYQR")(type "KiCad")(uri "${KIPRJMOD}/library/TPS55289RYQR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPL0501-100DCNR")(type "KiCad")(uri "${KIPRJMOD}/library/TPL0501-100DCNR.kicad_sym")(options "")(descr ""))
+)
