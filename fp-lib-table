@@ -4,4 +4,8 @@
   (lib (name "library")(type "KiCad")(uri "${KIPRJMOD}/library.pretty")(options "")(descr ""))
   (lib (name "TPS55289RYQR")(type "KiCad")(uri "${KIPRJMOD}/library/TPS55289RYQR.pretty")(options "")(descr ""))
   (lib (name "TPL0501-100DCNR")(type "KiCad")(uri "${KIPRJMOD}/library/TPL0501-100DCNR.pretty")(options "")(descr ""))
+  (lib (name "STL6P3LLH6")(type "KiCad")(uri "${KIPRJMOD}/library/STL6P3LLH6.pretty")(options "")(descr ""))
+  (lib (name "TPS7A57")(type "KiCad")(uri "${KIPRJMOD}/library/TPS7A57.pretty")(options "")(descr ""))
+  (lib (name "LMR16030")(type "KiCad")(uri "${KIPRJMOD}/library/LMR16030.pretty")(options "")(descr ""))
+  (lib (name "TestPoint")(type "KiCad")(uri "${KIPRJMOD}/library/TestPoint.pretty")(options "")(descr ""))
 )
