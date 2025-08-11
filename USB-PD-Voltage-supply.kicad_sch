@@ -4,10 +4,14 @@
 	(generator_version "9.0")
 	(uuid "f1abac34-7a5c-4402-ac3c-1ee4e3fc3d3a")
 	(paper "A3")
+	(title_block
+		(comment 1 "MADJOGGER.436734.001 Э3")
+		(comment 2 "Корнилов В.В.")
+	)
 	(lib_symbols)
 	(rectangle
-		(start 153.162 180.848)
-		(end 159.766 183.896)
+		(start 140.462 189.738)
+		(end 147.066 192.786)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -20,8 +24,8 @@
 		(uuid 01076ad6-2461-436a-84c1-855d0278ca02)
 	)
 	(rectangle
-		(start 148.336 117.856)
-		(end 192.024 162.56)
+		(start 135.636 126.746)
+		(end 179.324 171.45)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -34,8 +38,8 @@
 		(uuid 0357f1b4-4dd9-4e49-80ab-818cf69fb135)
 	)
 	(rectangle
-		(start 211.328 105.41)
-		(end 258.318 116.586)
+		(start 198.628 114.3)
+		(end 245.618 125.476)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -48,8 +52,22 @@
 		(uuid 042dbd02-f69a-4c9a-997d-353bfb036f74)
 	)
 	(rectangle
-		(start 100.33 100.33)
-		(end 144.018 115.57)
+		(start 234.9648 107.4705)
+		(end 243.0928 111.7885)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 255 255 1)
+		)
+		(fill
+			(type color)
+			(color 118 255 0 1)
+		)
+		(uuid 070ee375-a921-419f-9f0b-202aaaed17ec)
+	)
+	(rectangle
+		(start 87.63 109.22)
+		(end 131.318 124.46)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -62,8 +80,8 @@
 		(uuid 0ed4eb6f-ab15-4ccd-8e48-7fe51baf9197)
 	)
 	(rectangle
-		(start 184.404 156.718)
-		(end 190.754 161.036)
+		(start 171.704 165.608)
+		(end 178.054 169.926)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -76,8 +94,8 @@
 		(uuid 0f797f9e-6f08-49cb-becc-2b6f6b5135da)
 	)
 	(rectangle
-		(start 131.064 173.228)
-		(end 137.668 176.276)
+		(start 118.364 182.118)
+		(end 124.968 185.166)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -90,8 +108,8 @@
 		(uuid 165c5eab-8797-4426-b2b4-75d5167432ea)
 	)
 	(rectangle
-		(start 131.064 177.038)
-		(end 137.668 180.086)
+		(start 118.364 185.928)
+		(end 124.968 188.976)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -104,8 +122,8 @@
 		(uuid 19d381bf-3513-4ae0-8ec7-5ddfd2d96731)
 	)
 	(rectangle
-		(start 202.438 181.356)
-		(end 219.964 185.166)
+		(start 189.738 190.246)
+		(end 207.264 194.056)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -118,8 +136,8 @@
 		(uuid 19e6abd0-377d-4a38-9911-5d412ec85aab)
 	)
 	(rectangle
-		(start 211.328 117.856)
-		(end 258.318 139.954)
+		(start 198.628 126.746)
+		(end 245.618 148.844)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -132,8 +150,8 @@
 		(uuid 1b1cc317-79e8-4f7e-aa02-02d46d98c2d3)
 	)
 	(rectangle
-		(start 274.066 105.41)
-		(end 290.322 116.586)
+		(start 261.366 114.3)
+		(end 277.622 125.476)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -146,8 +164,8 @@
 		(uuid 201a1905-1aed-4a27-90ef-dbaf01e9eec0)
 	)
 	(rectangle
-		(start 202.438 172.212)
-		(end 219.964 176.022)
+		(start 189.738 181.102)
+		(end 207.264 184.912)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -160,8 +178,8 @@
 		(uuid 23057e30-27ab-4d7f-a7e6-a2d47c22b80b)
 	)
 	(rectangle
-		(start 131.064 180.848)
-		(end 137.668 183.896)
+		(start 118.364 189.738)
+		(end 124.968 192.786)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -174,8 +192,8 @@
 		(uuid 25c4f63d-585a-4fe9-a402-e8feff5c240c)
 	)
 	(rectangle
-		(start 211.328 140.97)
-		(end 258.318 163.068)
+		(start 198.628 149.86)
+		(end 245.618 171.958)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -188,8 +206,8 @@
 		(uuid 2bf87c39-e066-489c-93b8-ef6057924f43)
 	)
 	(rectangle
-		(start 282.956 121.412)
-		(end 289.306 125.73)
+		(start 270.256 130.302)
+		(end 276.606 134.62)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -202,8 +220,8 @@
 		(uuid 374ba887-7198-442a-822d-8b5d6fa6e98f)
 	)
 	(rectangle
-		(start 294.64 85.344)
-		(end 320.548 101.092)
+		(start 281.94 94.234)
+		(end 307.848 109.982)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -216,8 +234,8 @@
 		(uuid 38a3fb23-94f5-4f0f-9bce-cb7e4024afe2)
 	)
 	(rectangle
-		(start 247.65 109.728)
-		(end 255.778 114.046)
+		(start 234.95 118.618)
+		(end 243.078 122.936)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -230,8 +248,8 @@
 		(uuid 3b730e74-4c9a-4928-a910-ad0891921b1b)
 	)
 	(rectangle
-		(start 139.446 181.102)
-		(end 151.892 187.706)
+		(start 126.746 189.992)
+		(end 139.192 196.596)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -244,8 +262,8 @@
 		(uuid 5718ada6-cc63-41fd-8a7a-ccc4e33bb511)
 	)
 	(rectangle
-		(start 263.398 105.41)
-		(end 269.748 116.586)
+		(start 250.698 114.3)
+		(end 257.048 125.476)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -258,8 +276,8 @@
 		(uuid 5c2b35c0-8ef5-4dbf-a708-ece34b1978fd)
 	)
 	(rectangle
-		(start 100.33 117.602)
-		(end 144.018 162.306)
+		(start 87.63 126.492)
+		(end 131.318 171.196)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -272,8 +290,8 @@
 		(uuid 5c6fde00-4872-4e34-8f3f-bfcd36db070f)
 	)
 	(rectangle
-		(start 294.64 145.034)
-		(end 320.548 165.354)
+		(start 281.94 153.924)
+		(end 307.848 174.244)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -286,8 +304,22 @@
 		(uuid 64fb622f-6999-43ab-93ac-fcc31c625007)
 	)
 	(rectangle
-		(start 249.936 133.604)
-		(end 256.286 137.922)
+		(start 198.6428 103.1525)
+		(end 245.6328 114.3285)
+		(stroke
+			(width 0.508)
+			(type solid)
+			(color 0 255 255 1)
+		)
+		(fill
+			(type color)
+			(color 254 255 189 1)
+		)
+		(uuid 65ecaf87-e4e8-4aee-825f-e6a430da14b2)
+	)
+	(rectangle
+		(start 237.236 142.494)
+		(end 243.586 146.812)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -300,8 +332,8 @@
 		(uuid 6c45272c-35cd-4108-ba10-ac320bdd85af)
 	)
 	(rectangle
-		(start 139.192 177.038)
-		(end 145.796 180.086)
+		(start 126.492 185.928)
+		(end 133.096 188.976)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -314,8 +346,8 @@
 		(uuid 6e3c896e-d85f-4389-b759-2f59f5fe1241)
 	)
 	(rectangle
-		(start 260.604 119.888)
-		(end 290.322 131.064)
+		(start 247.904 128.778)
+		(end 277.622 139.954)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -328,8 +360,8 @@
 		(uuid 7a551b67-1b61-4b38-861b-7512c1ed939d)
 	)
 	(rectangle
-		(start 202.438 167.64)
-		(end 219.964 171.45)
+		(start 189.738 176.53)
+		(end 207.264 180.34)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -342,8 +374,8 @@
 		(uuid 7be5ffea-8637-499c-9150-bc47572e52b6)
 	)
 	(rectangle
-		(start 197.866 133.35)
-		(end 208.788 148.59)
+		(start 185.166 142.24)
+		(end 196.088 157.48)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -356,8 +388,8 @@
 		(uuid 7c92d796-6b5c-42a7-ab89-120a6b92cc9c)
 	)
 	(rectangle
-		(start 148.336 167.132)
-		(end 179.07 176.276)
+		(start 135.636 176.022)
+		(end 166.37 185.166)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -370,8 +402,8 @@
 		(uuid 890683e3-c65a-4831-a18e-c1476b074c40)
 	)
 	(rectangle
-		(start 175.006 183.388)
-		(end 179.578 187.706)
+		(start 162.306 192.278)
+		(end 166.878 196.596)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -384,8 +416,8 @@
 		(uuid 9b397284-f493-480d-8a29-88696d70fa5d)
 	)
 	(rectangle
-		(start 202.438 176.784)
-		(end 219.964 180.594)
+		(start 189.738 185.674)
+		(end 207.264 189.484)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -398,8 +430,8 @@
 		(uuid 9bf89dba-3685-4464-ace4-43297b377e3a)
 	)
 	(rectangle
-		(start 249.936 156.972)
-		(end 256.286 161.29)
+		(start 237.236 165.862)
+		(end 243.586 170.18)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -412,8 +444,8 @@
 		(uuid a8459336-fee2-45a2-b4a5-1eeaeb10e709)
 	)
 	(rectangle
-		(start 294.64 112.522)
-		(end 320.548 120.904)
+		(start 281.94 121.412)
+		(end 307.848 129.794)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -426,8 +458,8 @@
 		(uuid b175b23c-28c2-4f1f-8dfe-637d8f5d142c)
 	)
 	(rectangle
-		(start 294.64 102.616)
-		(end 320.548 110.998)
+		(start 281.94 111.506)
+		(end 307.848 119.888)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -440,8 +472,8 @@
 		(uuid beee2761-a8fc-437f-a7e5-9e556603916f)
 	)
 	(rectangle
-		(start 159.766 184.658)
-		(end 153.162 187.706)
+		(start 147.066 193.548)
+		(end 140.462 196.596)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -454,8 +486,8 @@
 		(uuid c3043ca9-050f-425d-8c4c-213099116532)
 	)
 	(rectangle
-		(start 131.064 184.658)
-		(end 137.668 187.706)
+		(start 118.364 193.548)
+		(end 124.968 196.596)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -468,8 +500,8 @@
 		(uuid c5e7689f-92f3-440c-b813-e052fdbe4787)
 	)
 	(rectangle
-		(start 168.402 184.658)
-		(end 161.798 187.706)
+		(start 155.702 193.548)
+		(end 149.098 196.596)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -482,8 +514,8 @@
 		(uuid d007d77e-99e0-4310-b4ed-4a81c50e6445)
 	)
 	(rectangle
-		(start 294.64 123.444)
-		(end 320.548 143.764)
+		(start 281.94 132.334)
+		(end 307.848 152.654)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -496,8 +528,8 @@
 		(uuid e5361c9b-db29-4b59-9853-8a0759b42c7c)
 	)
 	(rectangle
-		(start 100.2096 167.6399)
-		(end 129.032 187.706)
+		(start 87.5096 176.5299)
+		(end 116.332 196.596)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -510,8 +542,8 @@
 		(uuid e7fa9a32-fbc1-4006-afc8-b7eff8e6cd97)
 	)
 	(rectangle
-		(start 169.672 183.388)
-		(end 174.244 187.706)
+		(start 156.972 192.278)
+		(end 161.544 196.596)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -524,8 +556,8 @@
 		(uuid edba4a1c-3d5c-45b3-8cbd-a6383542a911)
 	)
 	(rectangle
-		(start 168.402 180.848)
-		(end 161.798 183.896)
+		(start 155.702 189.738)
+		(end 149.098 192.786)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -538,8 +570,8 @@
 		(uuid f5658981-0bd7-46e3-b09a-543b80e2c09a)
 	)
 	(rectangle
-		(start 139.192 173.228)
-		(end 145.796 176.276)
+		(start 126.492 182.118)
+		(end 133.096 185.166)
 		(stroke
 			(width 0.508)
 			(type solid)
@@ -553,7 +585,7 @@
 	)
 	(text "Curr-amp"
 		(exclude_from_sim no)
-		(at 216.408 174.752 0)
+		(at 203.708 183.642 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -566,7 +598,7 @@
 	)
 	(text "PD IC"
 		(exclude_from_sim no)
-		(at 170.18 138.43 0)
+		(at 157.48 147.32 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -577,9 +609,23 @@
 		)
 		(uuid "02f5d9c5-6920-4efa-a5cb-0cbac4564a23")
 	)
+	(text " питания многоканальный"
+		(exclude_from_sim no)
+		(at 329.184 262.636 0)
+		(effects
+			(font
+				(face "GOST type A")
+				(size 5.08 5.08)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "054a52f7-7deb-410b-a711-0c05624b4f1d")
+	)
 	(text "TPS7A57 "
 		(exclude_from_sim no)
-		(at 282.956 115.316 0)
+		(at 270.256 124.206 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -593,7 +639,7 @@
 	)
 	(text "socket"
 		(exclude_from_sim no)
-		(at 327.66 97.028 0)
+		(at 314.96 105.918 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -607,7 +653,7 @@
 	)
 	(text "6A"
 		(exclude_from_sim no)
-		(at 307.34 138.684 0)
+		(at 294.64 147.574 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -621,7 +667,7 @@
 	)
 	(text "I2C"
 		(exclude_from_sim no)
-		(at 187.706 160.02 0)
+		(at 175.006 168.91 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -635,7 +681,7 @@
 	)
 	(text "INA180"
 		(exclude_from_sim no)
-		(at 207.518 175.26 0)
+		(at 194.818 184.15 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -648,7 +694,7 @@
 	)
 	(text "Button"
 		(exclude_from_sim no)
-		(at 134.366 179.578 0)
+		(at 121.666 188.468 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -660,9 +706,9 @@
 		)
 		(uuid "2116d7f0-cdd9-4347-a825-c418912bb149")
 	)
-	(text "USB"
+	(text "USBx2"
 		(exclude_from_sim no)
-		(at 327.152 108.204 0)
+		(at 314.452 117.094 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -674,9 +720,23 @@
 		)
 		(uuid "21689617-d336-471e-b532-b6870a3064c1")
 	)
+	(text "Fixed"
+		(exclude_from_sim no)
+		(at 239.0288 110.5185 0)
+		(effects
+			(font
+				(face "Agency FB")
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "23cbb0bb-5b35-4115-8329-e9eeacd4891b")
+	)
 	(text "0.8-22V"
 		(exclude_from_sim no)
-		(at 307.848 154.432 0)
+		(at 295.148 163.322 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -690,7 +750,7 @@
 	)
 	(text "12-20V"
 		(exclude_from_sim no)
-		(at 305.816 91.948 0)
+		(at 293.116 100.838 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -704,7 +764,7 @@
 	)
 	(text "INA180"
 		(exclude_from_sim no)
-		(at 207.518 184.404 0)
+		(at 194.818 193.294 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -717,7 +777,7 @@
 	)
 	(text "I2C"
 		(exclude_from_sim no)
-		(at 171.958 186.69 0)
+		(at 159.258 195.58 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -731,7 +791,7 @@
 	)
 	(text "Banana"
 		(exclude_from_sim no)
-		(at 327.914 154.178 0)
+		(at 315.214 163.068 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -745,7 +805,7 @@
 	)
 	(text "Curr-amp"
 		(exclude_from_sim no)
-		(at 216.408 179.324 0)
+		(at 203.708 188.214 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -758,7 +818,7 @@
 	)
 	(text "5A"
 		(exclude_from_sim no)
-		(at 305.562 98.552 0)
+		(at 292.862 107.442 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -772,7 +832,7 @@
 	)
 	(text "TPS55289"
 		(exclude_from_sim no)
-		(at 234.188 161.036 0)
+		(at 221.488 169.926 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -785,7 +845,7 @@
 	)
 	(text "5.2V"
 		(exclude_from_sim no)
-		(at 301.244 108.458 0)
+		(at 288.544 117.348 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -799,7 +859,7 @@
 	)
 	(text "socket"
 		(exclude_from_sim no)
-		(at 327.66 158.496 0)
+		(at 314.96 167.386 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -813,7 +873,7 @@
 	)
 	(text "Current sense 2"
 		(exclude_from_sim no)
-		(at 240.03 176.022 0)
+		(at 227.33 184.912 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -825,9 +885,22 @@
 		)
 		(uuid "53cba5d2-74d3-4a72-b077-2a889982c9d7")
 	)
+	(text "LMR16030"
+		(exclude_from_sim no)
+		(at 222.0108 113.0585 0)
+		(effects
+			(font
+				(face "Agency FB")
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "5b0b0245-8446-4b99-b92e-9caead71c8c0")
+	)
 	(text "STUSB4500QTR"
 		(exclude_from_sim no)
-		(at 170.688 150.368 0)
+		(at 157.988 159.258 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -840,7 +913,7 @@
 	)
 	(text "Current sense 1"
 		(exclude_from_sim no)
-		(at 239.522 171.45 0)
+		(at 226.822 180.34 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -854,7 +927,7 @@
 	)
 	(text "LDO"
 		(exclude_from_sim no)
-		(at 282.448 111.506 0)
+		(at 269.748 120.396 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -868,7 +941,7 @@
 	)
 	(text "SPI"
 		(exclude_from_sim no)
-		(at 177.292 186.69 0)
+		(at 164.592 195.58 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -882,7 +955,7 @@
 	)
 	(text "INA180"
 		(exclude_from_sim no)
-		(at 207.518 179.832 0)
+		(at 194.818 188.722 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -893,9 +966,9 @@
 		)
 		(uuid "6aab4860-83cb-406e-87b2-bee8bd39150d")
 	)
-	(text "240*240\ndisplay"
+	(text "240*320\ndisplay"
 		(exclude_from_sim no)
-		(at 114.3 182.626 0)
+		(at 101.6 191.516 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -906,9 +979,23 @@
 		)
 		(uuid "6b2a3e1b-1f22-40a5-b3c4-bae0e7fe3711")
 	)
+	(text "Узел печатный источник"
+		(exclude_from_sim no)
+		(at 329.946 257.048 0)
+		(effects
+			(font
+				(face "GOST type A")
+				(size 5.08 5.08)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "78a9ba9b-d8da-4845-bb59-bccd7f841b2c")
+	)
 	(text "12-20V"
 		(exclude_from_sim no)
-		(at 203.454 141.986 0)
+		(at 190.754 150.876 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -922,7 +1009,7 @@
 	)
 	(text "Digital pot"
 		(exclude_from_sim no)
-		(at 272.542 124.714 0)
+		(at 259.842 133.604 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -936,7 +1023,7 @@
 	)
 	(text "Switch"
 		(exclude_from_sim no)
-		(at 156.464 187.198 0)
+		(at 143.764 196.088 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -948,9 +1035,22 @@
 		)
 		(uuid "7fc9fecc-eed4-4ac6-a79a-d24b132b2b0b")
 	)
+	(text "DC-DC"
+		(exclude_from_sim no)
+		(at 221.5028 109.2485 0)
+		(effects
+			(font
+				(face "Agency FB")
+				(size 5.08 5.08)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "829e2227-0503-40c9-acf2-ccdd026b1676")
+	)
 	(text "Button"
 		(exclude_from_sim no)
-		(at 134.366 175.768 0)
+		(at 121.666 184.658 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -964,7 +1064,7 @@
 	)
 	(text "5.2V"
 		(exclude_from_sim no)
-		(at 266.7 112.014 0)
+		(at 254 120.904 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -978,7 +1078,7 @@
 	)
 	(text "Fixed"
 		(exclude_from_sim no)
-		(at 251.714 112.776 0)
+		(at 239.014 121.666 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -992,7 +1092,7 @@
 	)
 	(text "0.8-22V"
 		(exclude_from_sim no)
-		(at 307.594 132.842 0)
+		(at 294.894 141.732 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1006,7 +1106,7 @@
 	)
 	(text "Banana"
 		(exclude_from_sim no)
-		(at 327.914 115.824 0)
+		(at 315.214 124.714 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1020,7 +1120,7 @@
 	)
 	(text "20V 5A"
 		(exclude_from_sim no)
-		(at 122.428 159.258 0)
+		(at 109.728 168.148 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1033,7 +1133,7 @@
 	)
 	(text "LMR16030"
 		(exclude_from_sim no)
-		(at 234.696 115.316 0)
+		(at 221.996 124.206 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1046,7 +1146,7 @@
 	)
 	(text "DC-DC"
 		(exclude_from_sim no)
-		(at 234.188 111.506 0)
+		(at 221.488 120.396 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1059,7 +1159,7 @@
 	)
 	(text "4A"
 		(exclude_from_sim no)
-		(at 315.976 118.618 0)
+		(at 303.276 127.508 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1073,7 +1173,7 @@
 	)
 	(text "Switch"
 		(exclude_from_sim no)
-		(at 156.464 183.388 0)
+		(at 143.764 192.278 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1087,7 +1187,7 @@
 	)
 	(text "I2C"
 		(exclude_from_sim no)
-		(at 253.238 160.274 0)
+		(at 240.538 169.164 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1101,7 +1201,7 @@
 	)
 	(text "Banana"
 		(exclude_from_sim no)
-		(at 327.914 133.096 0)
+		(at 315.214 141.986 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1115,7 +1215,7 @@
 	)
 	(text "socket"
 		(exclude_from_sim no)
-		(at 327.66 120.142 0)
+		(at 314.96 129.032 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1129,7 +1229,7 @@
 	)
 	(text "DC-Jack"
 		(exclude_from_sim no)
-		(at 122.174 111.506 0)
+		(at 109.474 120.396 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1142,7 +1242,7 @@
 	)
 	(text "INA180"
 		(exclude_from_sim no)
-		(at 207.518 170.688 0)
+		(at 194.818 179.578 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1155,7 +1255,7 @@
 	)
 	(text "Curr-amp"
 		(exclude_from_sim no)
-		(at 216.408 170.18 0)
+		(at 203.708 179.07 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1168,7 +1268,7 @@
 	)
 	(text "USB-PD\nsource"
 		(exclude_from_sim no)
-		(at 121.92 140.97 0)
+		(at 109.22 149.86 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1181,7 +1281,7 @@
 	)
 	(text "Banana"
 		(exclude_from_sim no)
-		(at 327.914 92.71 0)
+		(at 315.214 101.6 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1195,7 +1295,7 @@
 	)
 	(text "SPI"
 		(exclude_from_sim no)
-		(at 137.668 171.196 0)
+		(at 124.968 180.086 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1209,7 +1309,7 @@
 	)
 	(text "TPL0501-100DCNR"
 		(exclude_from_sim no)
-		(at 273.05 129.286 0)
+		(at 260.35 138.176 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1223,7 +1323,7 @@
 	)
 	(text "Switch"
 		(exclude_from_sim no)
-		(at 165.1 183.388 0)
+		(at 152.4 192.278 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1237,7 +1337,7 @@
 	)
 	(text "ST7789"
 		(exclude_from_sim no)
-		(at 114.554 175.26 0)
+		(at 101.854 184.15 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1250,7 +1350,7 @@
 	)
 	(text "Button"
 		(exclude_from_sim no)
-		(at 142.494 175.768 0)
+		(at 129.794 184.658 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1264,7 +1364,7 @@
 	)
 	(text "3A"
 		(exclude_from_sim no)
-		(at 311.912 108.458 0)
+		(at 299.212 117.348 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1276,9 +1376,9 @@
 		)
 		(uuid "c4f78da6-b541-4474-8b16-4f51152c3921")
 	)
-	(text "PCF8575TS/1"
+	(text "PCA9555"
 		(exclude_from_sim no)
-		(at 145.6858 185.2165 0)
+		(at 132.842 193.802 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1292,7 +1392,7 @@
 	)
 	(text "Current sense 4"
 		(exclude_from_sim no)
-		(at 240.03 185.166 0)
+		(at 227.33 194.056 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1306,7 +1406,7 @@
 	)
 	(text "I2C"
 		(exclude_from_sim no)
-		(at 253.238 136.906 0)
+		(at 240.538 145.796 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1320,7 +1420,7 @@
 	)
 	(text "DC-DC"
 		(exclude_from_sim no)
-		(at 234.188 151.892 0)
+		(at 221.488 160.782 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1333,7 +1433,7 @@
 	)
 	(text "I2C"
 		(exclude_from_sim no)
-		(at 151.638 179.324 0)
+		(at 138.938 188.214 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1345,9 +1445,23 @@
 		)
 		(uuid "dac3feee-46fc-40fa-92f5-e082c6645d7e")
 	)
+	(text "Схема электрическая"
+		(exclude_from_sim no)
+		(at 329.692 269.24 0)
+		(effects
+			(font
+				(face "GOST type A")
+				(size 4.064 4.064)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "daffd74a-755f-4f35-bb5f-529c58841794")
+	)
 	(text "Curr-amp"
 		(exclude_from_sim no)
-		(at 216.408 183.896 0)
+		(at 203.708 192.786 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1360,21 +1474,21 @@
 	)
 	(text "SPI"
 		(exclude_from_sim no)
-		(at 286.004 124.714 0)
+		(at 273.304 133.604 0)
 		(effects
 			(font
 				(face "Agency FB")
 				(size 2.54 2.54)
 				(thickness 0.254)
 				(bold yes)
-				(color 0 0 0 1)
+				(color 255 255 255 1)
 			)
 		)
 		(uuid "e088943d-643b-4dbf-94b3-7d90b4fcbe08")
 	)
 	(text "DC-DC"
 		(exclude_from_sim no)
-		(at 234.188 128.778 0)
+		(at 221.488 137.668 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1387,7 +1501,7 @@
 	)
 	(text "Switch"
 		(exclude_from_sim no)
-		(at 165.1 187.198 0)
+		(at 152.4 196.088 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1399,9 +1513,23 @@
 		)
 		(uuid "ee15a7c8-a1c5-4132-8cc2-7cde1ffdedc3")
 	)
+	(text "принципиальная"
+		(exclude_from_sim no)
+		(at 328.93 274.066 0)
+		(effects
+			(font
+				(face "GOST type A")
+				(size 4.064 4.064)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "ef10cd4c-c2c6-441f-887e-0c06f595ee89")
+	)
 	(text "0.5-5V"
 		(exclude_from_sim no)
-		(at 304.038 118.618 0)
+		(at 291.338 127.508 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1415,7 +1543,7 @@
 	)
 	(text "TPS55289"
 		(exclude_from_sim no)
-		(at 234.188 137.922 0)
+		(at 221.488 146.812 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1428,7 +1556,7 @@
 	)
 	(text "Button"
 		(exclude_from_sim no)
-		(at 134.366 183.388 0)
+		(at 121.666 192.278 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1442,7 +1570,7 @@
 	)
 	(text "socket"
 		(exclude_from_sim no)
-		(at 327.66 137.414 0)
+		(at 314.96 146.304 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1456,7 +1584,7 @@
 	)
 	(text "6A"
 		(exclude_from_sim no)
-		(at 307.594 160.274 0)
+		(at 294.894 169.164 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1470,7 +1598,7 @@
 	)
 	(text "Current sense 3"
 		(exclude_from_sim no)
-		(at 240.03 180.594 0)
+		(at 227.33 189.484 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1484,7 +1612,7 @@
 	)
 	(text "Button"
 		(exclude_from_sim no)
-		(at 134.366 187.198 0)
+		(at 121.666 196.088 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1498,7 +1626,7 @@
 	)
 	(text "Button"
 		(exclude_from_sim no)
-		(at 142.494 179.578 0)
+		(at 129.794 188.468 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1512,7 +1640,7 @@
 	)
 	(text "ESP32-C3"
 		(exclude_from_sim no)
-		(at 163.83 172.974 0)
+		(at 151.13 181.864 0)
 		(effects
 			(font
 				(face "Agency FB")
@@ -1525,7 +1653,7 @@
 	)
 	(polyline
 		(pts
-			(xy 263.398 111.252) (xy 260.858 112.268)
+			(xy 250.698 120.142) (xy 248.158 121.158)
 		)
 		(stroke
 			(width 0.508)
@@ -1535,7 +1663,7 @@
 	)
 	(polyline
 		(pts
-			(xy 179.07 170.688) (xy 196.596 170.688)
+			(xy 166.37 179.578) (xy 183.896 179.578)
 		)
 		(stroke
 			(width 0.508)
@@ -1545,7 +1673,7 @@
 	)
 	(polyline
 		(pts
-			(xy 177.292 176.276) (xy 177.292 183.388)
+			(xy 164.592 185.166) (xy 164.592 192.278)
 		)
 		(stroke
 			(width 0.508)
@@ -1555,7 +1683,7 @@
 	)
 	(polyline
 		(pts
-			(xy 266.7 103.378) (xy 266.7 105.41)
+			(xy 254 112.268) (xy 254 114.3)
 		)
 		(stroke
 			(width 0.508)
@@ -1565,7 +1693,7 @@
 	)
 	(polyline
 		(pts
-			(xy 269.748 111.252) (xy 274.066 111.252)
+			(xy 257.048 120.142) (xy 261.366 120.142)
 		)
 		(stroke
 			(width 0.508)
@@ -1575,7 +1703,7 @@
 	)
 	(polyline
 		(pts
-			(xy 137.668 178.562) (xy 139.192 178.562)
+			(xy 124.968 187.452) (xy 126.492 187.452)
 		)
 		(stroke
 			(width 0.508)
@@ -1585,7 +1713,7 @@
 	)
 	(polyline
 		(pts
-			(xy 281.686 116.84) (xy 280.924 118.364)
+			(xy 268.986 125.73) (xy 268.224 127.254)
 		)
 		(stroke
 			(width 0.508)
@@ -1595,7 +1723,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 134.366) (xy 292.1 133.35)
+			(xy 281.94 143.256) (xy 279.4 142.24)
 		)
 		(stroke
 			(width 0.508)
@@ -1605,7 +1733,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 134.366) (xy 292.1 135.382)
+			(xy 281.94 143.256) (xy 279.4 144.272)
 		)
 		(stroke
 			(width 0.508)
@@ -1615,7 +1743,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 92.964) (xy 292.1 93.98)
+			(xy 281.94 101.854) (xy 279.4 102.87)
 		)
 		(stroke
 			(width 0.508)
@@ -1625,7 +1753,7 @@
 	)
 	(polyline
 		(pts
-			(xy 137.668 182.372) (xy 138.43 182.372)
+			(xy 124.968 191.262) (xy 125.73 191.262)
 		)
 		(stroke
 			(width 0.508)
@@ -1635,7 +1763,7 @@
 	)
 	(polyline
 		(pts
-			(xy 206.248 159.258) (xy 211.328 159.258)
+			(xy 193.548 168.148) (xy 198.628 168.148)
 		)
 		(stroke
 			(width 0.508)
@@ -1645,7 +1773,7 @@
 	)
 	(polyline
 		(pts
-			(xy 137.668 185.674) (xy 139.446 185.674)
+			(xy 124.968 194.564) (xy 126.746 194.564)
 		)
 		(stroke
 			(width 0.508)
@@ -1655,7 +1783,7 @@
 	)
 	(polyline
 		(pts
-			(xy 179.07 171.958) (xy 191.008 171.958)
+			(xy 166.37 180.848) (xy 178.308 180.848)
 		)
 		(stroke
 			(width 0.508)
@@ -1665,7 +1793,7 @@
 	)
 	(polyline
 		(pts
-			(xy 211.328 159.258) (xy 208.788 158.242)
+			(xy 198.628 168.148) (xy 196.088 167.132)
 		)
 		(stroke
 			(width 0.508)
@@ -1675,7 +1803,7 @@
 	)
 	(polyline
 		(pts
-			(xy 144.018 107.696) (xy 203.454 107.696)
+			(xy 131.318 116.586) (xy 190.754 116.586)
 		)
 		(stroke
 			(width 0.508)
@@ -1685,7 +1813,7 @@
 	)
 	(polyline
 		(pts
-			(xy 197.358 140.462) (xy 194.818 141.478)
+			(xy 184.658 149.352) (xy 182.118 150.368)
 		)
 		(stroke
 			(width 0.508)
@@ -1695,7 +1823,7 @@
 	)
 	(polyline
 		(pts
-			(xy 197.358 140.462) (xy 194.818 139.446)
+			(xy 184.658 149.352) (xy 182.118 148.336)
 		)
 		(stroke
 			(width 0.508)
@@ -1705,7 +1833,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 103.378) (xy 292.1 104.394)
+			(xy 281.94 112.268) (xy 279.4 113.284)
 		)
 		(stroke
 			(width 0.508)
@@ -1715,7 +1843,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 92.964) (xy 292.1 91.948)
+			(xy 281.94 101.854) (xy 279.4 100.838)
 		)
 		(stroke
 			(width 0.508)
@@ -1725,7 +1853,7 @@
 	)
 	(polyline
 		(pts
-			(xy 192.278 140.462) (xy 197.358 140.462)
+			(xy 179.578 149.352) (xy 184.658 149.352)
 		)
 		(stroke
 			(width 0.508)
@@ -1735,7 +1863,7 @@
 	)
 	(polyline
 		(pts
-			(xy 281.686 119.888) (xy 281.686 116.84)
+			(xy 268.986 128.778) (xy 268.986 125.73)
 		)
 		(stroke
 			(width 0.508)
@@ -1745,7 +1873,7 @@
 	)
 	(polyline
 		(pts
-			(xy 148.336 140.462) (xy 145.796 139.446)
+			(xy 135.636 149.352) (xy 133.096 148.336)
 		)
 		(stroke
 			(width 0.508)
@@ -1755,7 +1883,7 @@
 	)
 	(polyline
 		(pts
-			(xy 203.454 133.35) (xy 204.47 130.81)
+			(xy 190.754 142.24) (xy 191.77 139.7)
 		)
 		(stroke
 			(width 0.508)
@@ -1765,7 +1893,7 @@
 	)
 	(polyline
 		(pts
-			(xy 290.322 103.378) (xy 266.7 103.378)
+			(xy 277.622 112.268) (xy 254 112.268)
 		)
 		(stroke
 			(width 0.508)
@@ -1775,7 +1903,7 @@
 	)
 	(polyline
 		(pts
-			(xy 196.596 173.99) (xy 196.596 170.688)
+			(xy 183.896 182.88) (xy 183.896 179.578)
 		)
 		(stroke
 			(width 0.508)
@@ -1785,7 +1913,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 155.448) (xy 292.1 154.432)
+			(xy 281.94 164.338) (xy 279.4 163.322)
 		)
 		(stroke
 			(width 0.508)
@@ -1795,7 +1923,7 @@
 	)
 	(polyline
 		(pts
-			(xy 274.066 111.252) (xy 271.526 110.236)
+			(xy 261.366 120.142) (xy 258.826 119.126)
 		)
 		(stroke
 			(width 0.508)
@@ -1805,7 +1933,7 @@
 	)
 	(polyline
 		(pts
-			(xy 148.336 171.704) (xy 129.032 171.704)
+			(xy 135.636 180.594) (xy 116.332 180.594)
 		)
 		(stroke
 			(width 0.508)
@@ -1815,7 +1943,7 @@
 	)
 	(polyline
 		(pts
-			(xy 202.438 178.816) (xy 191.008 178.816)
+			(xy 189.738 187.706) (xy 178.308 187.706)
 		)
 		(stroke
 			(width 0.508)
@@ -1825,7 +1953,7 @@
 	)
 	(polyline
 		(pts
-			(xy 202.438 183.388) (xy 185.674 183.388)
+			(xy 189.738 192.278) (xy 172.974 192.278)
 		)
 		(stroke
 			(width 0.508)
@@ -1835,7 +1963,7 @@
 	)
 	(polyline
 		(pts
-			(xy 150.114 176.276) (xy 150.114 181.102)
+			(xy 137.414 185.166) (xy 137.414 189.992)
 		)
 		(stroke
 			(width 0.508)
@@ -1845,7 +1973,7 @@
 	)
 	(polyline
 		(pts
-			(xy 206.248 92.964) (xy 206.248 126.746)
+			(xy 193.548 101.854) (xy 193.548 135.636)
 		)
 		(stroke
 			(width 0.508)
@@ -1855,7 +1983,7 @@
 	)
 	(polyline
 		(pts
-			(xy 148.336 140.462) (xy 145.796 141.478)
+			(xy 135.636 149.352) (xy 133.096 150.368)
 		)
 		(stroke
 			(width 0.508)
@@ -1865,7 +1993,7 @@
 	)
 	(polyline
 		(pts
-			(xy 225.044 169.672) (xy 219.964 169.672)
+			(xy 212.344 178.562) (xy 207.264 178.562)
 		)
 		(stroke
 			(width 0.508)
@@ -1875,7 +2003,7 @@
 	)
 	(polyline
 		(pts
-			(xy 171.958 176.276) (xy 171.958 183.388)
+			(xy 159.258 185.166) (xy 159.258 192.278)
 		)
 		(stroke
 			(width 0.508)
@@ -1885,7 +2013,7 @@
 	)
 	(polyline
 		(pts
-			(xy 179.07 173.228) (xy 185.674 173.228)
+			(xy 166.37 182.118) (xy 172.974 182.118)
 		)
 		(stroke
 			(width 0.508)
@@ -1895,7 +2023,7 @@
 	)
 	(polyline
 		(pts
-			(xy 258.318 111.252) (xy 263.398 111.252)
+			(xy 245.618 120.142) (xy 250.698 120.142)
 		)
 		(stroke
 			(width 0.508)
@@ -1905,7 +2033,7 @@
 	)
 	(polyline
 		(pts
-			(xy 191.008 178.816) (xy 191.008 171.958)
+			(xy 178.308 187.706) (xy 178.308 180.848)
 		)
 		(stroke
 			(width 0.508)
@@ -1915,7 +2043,7 @@
 	)
 	(polyline
 		(pts
-			(xy 206.248 133.35) (xy 206.248 126.746)
+			(xy 193.548 142.24) (xy 193.548 135.636)
 		)
 		(stroke
 			(width 0.508)
@@ -1925,7 +2053,7 @@
 	)
 	(polyline
 		(pts
-			(xy 290.322 103.378) (xy 294.64 103.378)
+			(xy 277.622 112.268) (xy 281.94 112.268)
 		)
 		(stroke
 			(width 0.508)
@@ -1935,7 +2063,7 @@
 	)
 	(polyline
 		(pts
-			(xy 225.044 173.99) (xy 219.964 173.99)
+			(xy 212.344 182.88) (xy 207.264 182.88)
 		)
 		(stroke
 			(width 0.508)
@@ -1945,7 +2073,7 @@
 	)
 	(polyline
 		(pts
-			(xy 144.018 140.462) (xy 148.336 140.462)
+			(xy 131.318 149.352) (xy 135.636 149.352)
 		)
 		(stroke
 			(width 0.508)
@@ -1955,7 +2083,7 @@
 	)
 	(polyline
 		(pts
-			(xy 206.248 159.258) (xy 206.248 148.59)
+			(xy 193.548 168.148) (xy 193.548 157.48)
 		)
 		(stroke
 			(width 0.508)
@@ -1965,7 +2093,7 @@
 	)
 	(polyline
 		(pts
-			(xy 289.56 92.964) (xy 294.64 92.964)
+			(xy 276.86 101.854) (xy 281.94 101.854)
 		)
 		(stroke
 			(width 0.508)
@@ -1975,7 +2103,7 @@
 	)
 	(polyline
 		(pts
-			(xy 258.318 134.366) (xy 294.64 134.366)
+			(xy 245.618 143.256) (xy 281.94 143.256)
 		)
 		(stroke
 			(width 0.508)
@@ -1985,7 +2113,7 @@
 	)
 	(polyline
 		(pts
-			(xy 203.454 133.35) (xy 202.438 130.81)
+			(xy 190.754 142.24) (xy 189.738 139.7)
 		)
 		(stroke
 			(width 0.508)
@@ -1995,7 +2123,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 155.448) (xy 292.1 156.464)
+			(xy 281.94 164.338) (xy 279.4 165.354)
 		)
 		(stroke
 			(width 0.508)
@@ -2005,7 +2133,7 @@
 	)
 	(polyline
 		(pts
-			(xy 211.328 159.258) (xy 208.788 160.274)
+			(xy 198.628 168.148) (xy 196.088 169.164)
 		)
 		(stroke
 			(width 0.508)
@@ -2015,7 +2143,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 114.808) (xy 293.116 114.046)
+			(xy 281.94 123.698) (xy 280.416 122.936)
 		)
 		(stroke
 			(width 0.508)
@@ -2025,7 +2153,7 @@
 	)
 	(polyline
 		(pts
-			(xy 225.044 178.816) (xy 219.964 178.816)
+			(xy 212.344 187.706) (xy 207.264 187.706)
 		)
 		(stroke
 			(width 0.508)
@@ -2035,7 +2163,7 @@
 	)
 	(polyline
 		(pts
-			(xy 281.686 116.84) (xy 282.448 118.364)
+			(xy 268.986 125.73) (xy 269.748 127.254)
 		)
 		(stroke
 			(width 0.508)
@@ -2045,7 +2173,7 @@
 	)
 	(polyline
 		(pts
-			(xy 151.892 182.626) (xy 153.162 182.626)
+			(xy 139.192 191.516) (xy 140.462 191.516)
 		)
 		(stroke
 			(width 0.508)
@@ -2055,7 +2183,7 @@
 	)
 	(polyline
 		(pts
-			(xy 225.044 183.134) (xy 219.964 183.134)
+			(xy 212.344 192.024) (xy 207.264 192.024)
 		)
 		(stroke
 			(width 0.508)
@@ -2065,7 +2193,7 @@
 	)
 	(polyline
 		(pts
-			(xy 151.892 186.182) (xy 153.162 186.182)
+			(xy 139.192 195.072) (xy 140.462 195.072)
 		)
 		(stroke
 			(width 0.508)
@@ -2075,7 +2203,7 @@
 	)
 	(polyline
 		(pts
-			(xy 203.454 107.696) (xy 203.454 133.35)
+			(xy 190.754 116.586) (xy 190.754 142.24)
 		)
 		(stroke
 			(width 0.508)
@@ -2085,7 +2213,7 @@
 	)
 	(polyline
 		(pts
-			(xy 211.328 126.746) (xy 208.788 125.73)
+			(xy 198.628 135.636) (xy 196.088 134.62)
 		)
 		(stroke
 			(width 0.508)
@@ -2095,7 +2223,7 @@
 	)
 	(polyline
 		(pts
-			(xy 289.56 92.964) (xy 206.248 92.964)
+			(xy 276.86 101.854) (xy 193.548 101.854)
 		)
 		(stroke
 			(width 0.508)
@@ -2105,7 +2233,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 103.378) (xy 292.1 102.362)
+			(xy 281.94 112.268) (xy 279.4 111.252)
 		)
 		(stroke
 			(width 0.508)
@@ -2115,7 +2243,7 @@
 	)
 	(polyline
 		(pts
-			(xy 185.674 183.388) (xy 185.674 173.228)
+			(xy 172.974 192.278) (xy 172.974 182.118)
 		)
 		(stroke
 			(width 0.508)
@@ -2125,7 +2253,7 @@
 	)
 	(polyline
 		(pts
-			(xy 290.322 114.808) (xy 294.64 114.808)
+			(xy 277.622 123.698) (xy 281.94 123.698)
 		)
 		(stroke
 			(width 0.508)
@@ -2135,7 +2263,7 @@
 	)
 	(polyline
 		(pts
-			(xy 179.07 169.418) (xy 202.438 169.418)
+			(xy 166.37 178.308) (xy 189.738 178.308)
 		)
 		(stroke
 			(width 0.508)
@@ -2145,7 +2273,7 @@
 	)
 	(polyline
 		(pts
-			(xy 137.668 174.752) (xy 139.192 174.752)
+			(xy 124.968 183.642) (xy 126.492 183.642)
 		)
 		(stroke
 			(width 0.508)
@@ -2155,7 +2283,7 @@
 	)
 	(polyline
 		(pts
-			(xy 258.318 155.448) (xy 294.64 155.448)
+			(xy 245.618 164.338) (xy 281.94 164.338)
 		)
 		(stroke
 			(width 0.508)
@@ -2165,7 +2293,7 @@
 	)
 	(polyline
 		(pts
-			(xy 294.64 114.808) (xy 293.116 115.57)
+			(xy 281.94 123.698) (xy 280.416 124.46)
 		)
 		(stroke
 			(width 0.508)
@@ -2175,7 +2303,7 @@
 	)
 	(polyline
 		(pts
-			(xy 274.066 111.252) (xy 271.526 112.268)
+			(xy 261.366 120.142) (xy 258.826 121.158)
 		)
 		(stroke
 			(width 0.508)
@@ -2185,7 +2313,7 @@
 	)
 	(polyline
 		(pts
-			(xy 202.438 173.99) (xy 196.596 173.99)
+			(xy 189.738 182.88) (xy 183.896 182.88)
 		)
 		(stroke
 			(width 0.508)
@@ -2195,7 +2323,7 @@
 	)
 	(polyline
 		(pts
-			(xy 206.248 126.746) (xy 211.328 126.746)
+			(xy 193.548 135.636) (xy 198.628 135.636)
 		)
 		(stroke
 			(width 0.508)
@@ -2205,7 +2333,7 @@
 	)
 	(polyline
 		(pts
-			(xy 211.328 126.746) (xy 208.788 127.762)
+			(xy 198.628 135.636) (xy 196.088 136.652)
 		)
 		(stroke
 			(width 0.508)
@@ -2215,7 +2343,7 @@
 	)
 	(polyline
 		(pts
-			(xy 138.43 185.674) (xy 138.43 174.752)
+			(xy 125.73 194.564) (xy 125.73 183.642)
 		)
 		(stroke
 			(width 0.508)
@@ -2225,7 +2353,7 @@
 	)
 	(polyline
 		(pts
-			(xy 263.398 111.252) (xy 260.858 110.236)
+			(xy 250.698 120.142) (xy 248.158 119.126)
 		)
 		(stroke
 			(width 0.508)
@@ -2234,48 +2362,7 @@
 		(uuid "ffb88ea1-5a51-4fc9-a43d-2b41c4e357bc")
 	)
 	(sheet
-		(at 91.44 165.1)
-		(size 166.37 24.13)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "5e84ba66-069d-4316-aeb3-35c594eb9360")
-		(property "Sheetname" "MCU"
-			(at 91.694 188.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "MCU.kicad_sch"
-			(at 91.44 189.8146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "USB-PD-Voltage-supply"
-				(path "/f1abac34-7a5c-4402-ac3c-1ee4e3fc3d3a"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 91.44 83.82)
+		(at 78.74 92.71)
 		(size 242.57 81.28)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2289,8 +2376,8 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "baf734d0-6cb7-430a-9a8a-959e0fb1cbab")
-		(property "Sheetname" "Power"
-			(at 91.948 83.312 0)
+		(property "Sheetname" "main"
+			(at 79.248 92.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2298,8 +2385,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Power.kicad_sch"
-			(at 91.948 84.582 0)
+		(property "Sheetfile" "main.kicad_sch"
+			(at 79.248 93.472 0)
 			(effects
 				(font
 					(size 1.27 1.27)
