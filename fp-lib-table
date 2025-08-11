@@ -8,4 +8,5 @@
   (lib (name "TPS7A57")(type "KiCad")(uri "${KIPRJMOD}/library/TPS7A57.pretty")(options "")(descr ""))
   (lib (name "LMR16030")(type "KiCad")(uri "${KIPRJMOD}/library/LMR16030.pretty")(options "")(descr ""))
   (lib (name "TestPoint")(type "KiCad")(uri "${KIPRJMOD}/library/TestPoint.pretty")(options "")(descr ""))
+  (lib (name "DC-005-5A")(type "KiCad")(uri "${KIPRJMOD}/library/DC-005-5A.pretty")(options "")(descr ""))
 )

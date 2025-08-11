@@ -6,4 +6,5 @@
   (lib (name "STL6P3LLH6")(type "KiCad")(uri "${KIPRJMOD}/library/STL6P3LLH6.kicad_sym")(options "")(descr ""))
   (lib (name "TPS7A5701RTER")(type "KiCad")(uri "${KIPRJMOD}/library/TPS7A5701RTER.kicad_sym")(options "")(descr ""))
   (lib (name "LMR16030SDDAR")(type "KiCad")(uri "${KIPRJMOD}/library/LMR16030SDDAR.kicad_sym")(options "")(descr ""))
+  (lib (name "DC-005-5A-2_5-SMT")(type "KiCad")(uri "${KIPRJMOD}/library/DC-005-5A-2_5-SMT.kicad_sym")(options "")(descr ""))
 )
