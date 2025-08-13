@@ -476,7 +476,22 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "+3.3V_LDO": "rgb(255, 255, 0)",
+      "+5.2V": "rgb(132, 0, 132)",
+      "+5.2V_": "rgb(194, 0, 194)",
+      "+5.2V_USB": "rgb(194, 194, 0)",
+      "+5.2V_USB_": "rgb(72, 72, 0)",
+      "+5V_USB": "rgb(0, 255, 255)",
+      "Earth": "rgb(255, 229, 191)",
+      "PD-Voltage": "rgb(255, 153, 0)",
+      "VOUT1": "rgb(0, 255, 0)",
+      "VOUT1_": "rgb(0, 132, 0)",
+      "VOUT2": "rgb(0, 0, 194)",
+      "VOUT2_": "rgb(0, 0, 132)",
+      "VOUT3": "rgb(255, 0, 255)",
+      "VOUT3_": "rgb(132, 0, 132)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
