@@ -56,9 +56,11 @@ A compact, network-enabled power solution designed for debugging modern semicond
 
 ## PCB
 <div align="center">
-  <img src="img/top.png" alt="Top view" width="300" height="264" />
+  <img src="img/top.png" alt="Top view" width="240" height="211" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="img/bot.png" alt="Bottom view" width="294" height="264" />
+  <img src="img/bot.png" alt="Bottom view" width="235" height="211" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="img/first-layer.png" alt="First layer" width="235" height="211" />
 </div>
 
 ## Functional diagram
