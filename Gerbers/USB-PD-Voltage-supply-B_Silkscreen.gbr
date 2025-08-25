@@ -1,12 +1,20 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+<<<<<<< HEAD
 %TF.CreationDate,2025-08-24T13:48:54+03:00*%
+=======
+%TF.CreationDate,2025-08-18T13:42:07+03:00*%
+>>>>>>> origin/main
 %TF.ProjectId,USB-PD-Voltage-supply,5553422d-5044-42d5-966f-6c746167652d,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Legend,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+<<<<<<< HEAD
 G04 Created by KiCad (PCBNEW 9.0.0) date 2025-08-24 13:48:54*
+=======
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-08-18 13:42:07*
+>>>>>>> origin/main
 %MOMM*%
 %LPD*%
 G01*
