@@ -1,0 +1,228 @@
+refdes;partname;type;Arrow_Part_Number;Arrow_Price/Stock;Datasheet;Description;Height;Manufacturer_Name;Manufacturer_Part_Number;Mouser_Part_Number;Mouser_Price/Stock;Value;Voltage
+AE1;Resistor_SMD_R_1206_3216Metric; ;  ;  ; ; Ceramic chip antenna with pin for PCB trace;  ;  ;  ;  ;  ; ADWH002;  
+C1;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 24pF;  
+C10;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF;  
+C11;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 10uF;  
+C12;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C13;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C14;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C15;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C16;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1.2pF;  
+C17;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1uF;  
+C18;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1.8pF;  
+C2;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 10uF;  
+C25;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1uF;  
+C26;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C27;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C28;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C29;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C3;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C30;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C31;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C36;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C4;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C41;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C42;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C43;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C44;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C49;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C5;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 24pF;  
+C50;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C51;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C52;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C53;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C54;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C55;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C56;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C57;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C58;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C59;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C6;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1uF;  
+C60;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 4.7uF; 6.3V
+C61;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C62;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C63;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 10pF;  
+C64;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 10pF;  
+C65;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C66;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C67;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 2.2nF;  
+C68;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C69;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 2.2nF;  
+C7;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF;  
+C70;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C71;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C72;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C73;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C74;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C75;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C76;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 47uF; 6.3V
+C77;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C78;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C79;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C8;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C9;Capacitor_SMD_C_0201_0603Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1uF;  
+D1;PCM_Diode_SMD_AKL_D_SMB_TVS; ;  ;  ; https://www.tme.eu/Document/0b6222bec7e12d83185b51d73cb6a54d/SMBJ_ser.pdf; SMB Bidirectional TVS Diode, 40V, 600W, Alternate KiCAD Library;  ;  ;  ;  ;  ; SMBJ40CA;  
+D10;Diode_SMD_D_SMA; ;  ;  ; https://www.tme.eu/Document/4534c3d1273464918563ce78bdeb2ece/SS34-E3-57T.pdf; SMC Schottky diode, 40V, 3A, Alternate KiCAD Library;  ;  ;  ;  ;  ; SS34;  
+D11;Diode_SMD_D_SMA; ;  ;  ; https://www.tme.eu/Document/4534c3d1273464918563ce78bdeb2ece/SS34-E3-57T.pdf; SMC Schottky diode, 40V, 3A, Alternate KiCAD Library;  ;  ;  ;  ;  ; SS34;  
+D13;PCM_Diode_SMD_AKL_D_SMB_TVS; ;  ;  ; https://www.tme.eu/Document/0b6222bec7e12d83185b51d73cb6a54d/SMBJ_ser.pdf; SMB Bidirectional TVS Diode, 40V, 600W, Alternate KiCAD Library;  ;  ;  ;  ;  ; SMBJ40CA;  
+D14;PCM_Diode_SMD_AKL_D_SMB_TVS; ;  ;  ; https://www.tme.eu/Document/0b6222bec7e12d83185b51d73cb6a54d/SMBJ_ser.pdf; SMB Bidirectional TVS Diode, 40V, 600W, Alternate KiCAD Library;  ;  ;  ;  ;  ; SMBJ40CA;  
+D15;PCM_Diode_SMD_AKL_D_SMB_TVS; ;  ;  ; https://www.tme.eu/Document/0b6222bec7e12d83185b51d73cb6a54d/SMBJ_ser.pdf; SMB Bidirectional TVS Diode, 40V, 600W, Alternate KiCAD Library;  ;  ;  ;  ;  ; SMBJ40CA;  
+D16;PCM_Diode_SMD_AKL_D_SMB_TVS; ;  ;  ; https://www.tme.eu/Document/0b6222bec7e12d83185b51d73cb6a54d/SMBJ_ser.pdf; SMB Bidirectional TVS Diode, 40V, 600W, Alternate KiCAD Library;  ;  ;  ;  ;  ; SMBJ40CA;  
+D17;PCM_Diode_SMD_AKL_D_SMB_TVS; ;  ;  ; https://www.tme.eu/Document/0b6222bec7e12d83185b51d73cb6a54d/SMBJ_ser.pdf; SMB Bidirectional TVS Diode, 40V, 600W, Alternate KiCAD Library;  ;  ;  ;  ;  ; SMBJ40CA;  
+D2;PCM_Diode_SMD_AKL_D_SMB_TVS; ;  ;  ; https://www.tme.eu/Document/0b6222bec7e12d83185b51d73cb6a54d/SMBJ_ser.pdf; SMB Bidirectional TVS Diode, 40V, 600W, Alternate KiCAD Library;  ;  ;  ;  ;  ; SMBJ40CA;  
+D3;PCM_Package_TO_SOT_SMD_AKL_SOT-353_SC-70-5; ;  ;  ; https://www.tme.eu/Document/d23152a24a9b38ad8c9675e4388f9442/ESDAxxxWx.pdf; SOT-353 TVS Diode array, 4xUnidirectional, 25V, 150W, Alternate KiCAD Library;  ;  ;  ;  ;  ; ESDA25W5;  
+D4;LED_SMD_LED_0402_1005Metric; ;  ;  ; ; Light emitting diode;  ;  ;  ;  ;  ; LED;  
+D5;LED_SMD_LED_0402_1005Metric; ;  ;  ; ; Light emitting diode;  ;  ;  ;  ;  ; LED;  
+D6;LED_SMD_LED_0402_1005Metric; ;  ;  ; ; Light emitting diode;  ;  ;  ;  ;  ; LED;  
+D7;LED_SMD_LED_0402_1005Metric; ;  ;  ; ; Light emitting diode;  ;  ;  ;  ;  ; LED;  
+D8;Diode_SMD_D_SMA; ;  ;  ; https://www.tme.eu/Document/4534c3d1273464918563ce78bdeb2ece/SS34-E3-57T.pdf; SMC Schottky diode, 40V, 3A, Alternate KiCAD Library;  ;  ;  ;  ;  ; SS34;  
+D9;ESDA25P35-1U1M_ESDA25P351U1M; ; ESDA25P35-1U1M; https://www.arrow.com/en/products/esda25p35-1u1m/stmicroelectronics?utm_currency=USD&region=europe; https://www.st.com/resource/en/datasheet/esda25p35-1u1m.pdf; STMicroelectronics ESDA25P35-1U1M, Uni-Directional TVS Diode, 1400W, 2-Pin QFN; 0.6; STMicroelectronics; ESDA25P35-1U1M; 511-ESDA25P35-1U1M; https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ESDA25P35-1U1M?qs=aVyJF2WnouQUWqgNP85ZrA%3D%3D; ESDA25P35-1U1M;  
+DA1;TPS7A57_TPS7A57; ; ; ; https://www.mouser.in/ProductDetail/Texas-Instruments/TPS7A5701RTER?qs=vvQtp7zwQdOmK5SKE0o8WA%3D%3D; LDO Voltage Regulators 5-A, low-VIN, low-noise, high-accuracy low-dropout (LDO) voltage regulator; 0.8; Texas Instruments; TPS7A5701RTER; 595-TPS7A5701RTER; https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A5701RTER?qs=vvQtp7zwQdOmK5SKE0o8WA%3D%3D; TPS7A5701RTER;  
+DD1;TPL0501-100DCNR_SOT65P280X145-8N; ; TPL0501-100DCNR; https://www.arrow.com/en/products/tpl0501-100dcnr/texas-instruments?region=nac; http://www.ti.com/lit/gpn/tpl0501-100; TPL0501-100DCNR, Digital Potentiometer 120k 256-Position Linear Serial-3 Wire, Serial-SPI 8-Pin SOT-23; 1.45; Texas Instruments; TPL0501-100DCNR; 595-TPL0501-100DCNR; https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPL0501-100DCNR?qs=QtI0yD1FyONqFe2CXN2fCQ%3D%3D; TPL0501-100DCNR;  
+F1;Fuse_Fuse_1210_3225Metric; ;  ;  ; ; Resettable fuse, polymeric positive temperature coefficient;  ;  ;  ;  ;  ; SL1210650;  
+F2;Fuse_Fuse_1210_3225Metric; ;  ;  ; ; Resettable fuse, polymeric positive temperature coefficient;  ;  ;  ;  ;  ; SL1210650;  
+F3;Fuse_Fuse_1210_3225Metric; ;  ;  ; ; Resettable fuse, polymeric positive temperature coefficient;  ;  ;  ;  ;  ; SL1210650;  
+F4;Fuse_Fuse_1812_4532Metric; ;  ;  ; ; Resettable fuse, polymeric positive temperature coefficient;  ;  ;  ;  ;  ; SMD1812P350TF;  
+F5;Fuse_Fuse_1812_4532Metric; ;  ;  ; ; Resettable fuse, polymeric positive temperature coefficient;  ;  ;  ;  ;  ; SMD1812P350TF;  
+F6;Fuse_Fuse_1812_4532Metric; ;  ;  ; ; Resettable fuse, polymeric positive temperature coefficient;  ;  ;  ;  ;  ; SMD1812P350TF;  
+G***;_LOGO; ;  ;  ; ; ;  ;  ;  ;  ;  ; LOGO;  
+J1;DC-005-5A_DC-005-5A; ; ; ; https://datasheet.lcsc.com/szlcsc/XKB-DC-005-5A-2-5-SMT_C319133.pdf; DC Power Jack; 11; XKB Connectivity; DC-005-5A-2.5-SMT; ; ; DC-005-5A-2.5-SMT;  
+J2;Connector_PinHeader_1.27mm_PinHeader_1x07_P1.27mm_Vertical; ;  ;  ; ; Generic connector, single row, 01x07, script generated;  ;  ;  ;  ;  ; Conn_01x07_Pin;  
+J3;Connector_PinSocket_2.54mm_PinSocket_1x04_P2.54mm_Vertical; ;  ;  ; ; Generic connector, single row, 01x04, script generated;  ;  ;  ;  ;  ; Conn_01x04_Pin;  
+J4;Connector_USB_USB_C_Receptacle_G-Switch_GT-USB-7010ASV; ;  ;  ; https://www.usb.org/sites/default/files/documents/usb_type-c.zip; USB 2.0-only 16P Type-C Receptacle connector;  ;  ;  ;  ;  ; TYPE-C-31-M-31;  
+J5;Connector_PinHeader_1.27mm_PinHeader_1x11_P1.27mm_Vertical; ;  ;  ; ; Generic connector, single row, 01x11, script generated;  ;  ;  ;  ;  ; Conn_01x11_Pin;  
+J6;Connector_PinHeader_1.27mm_PinHeader_1x11_P1.27mm_Vertical; ;  ;  ; ; Generic connector, single row, 01x11, script generated;  ;  ;  ;  ;  ; Conn_01x11_Pin;  
+J7;Connector_PinHeader_1.27mm_PinHeader_1x11_P1.27mm_Vertical; ;  ;  ; ; Generic connector, single row, 01x11, script generated;  ;  ;  ;  ;  ; Conn_01x11_Pin;  
+L1;Inductor_SMD_L_0402_1005Metric;L;  ;  ; ; Inductor;  ;  ;  ;  ;  ; 2nH;  
+L2;Inductor_SMD_L_0201_0603Metric;L;  ;  ; ; Inductor;  ;  ;  ;  ;  ; 24nH;  
+L3;Inductor_SMD_L_0201_0603Metric;L;  ;  ; ; Inductor;  ;  ;  ;  ;  ; 3nH;  
+L4;Inductor_SMD_L_APV_APH1040;L;  ;  ; ; Inductor;  ;  ;  ;  ;  ; IHLP4040DZER4R7M01;  
+L5;Inductor_SMD_L_APV_APH1040;L;  ;  ; ; Inductor;  ;  ;  ;  ;  ; IHLP4040DZER4R7M01;  
+L6;Inductor_SMD_L_APV_APH1040;L;  ;  ; ; Inductor;  ;  ;  ;  ;  ; IHLP4040DZER100M01;  
+L7;Inductor_SMD_L_APV_APH1040;L;  ;  ; ; Inductor;  ;  ;  ;  ;  ; IHLP4040DZER100M01;  
+Q1;STL6P3LLH6_STL8N10F7; ; STL6P3LLH6; https://www.arrow.com/en/products/stl6p3llh6/stmicroelectronics?utm_currency=USD&region=nac; https://www.mouser.com/datasheet/2/389/stl6p3llh6-1851075.pdf; MOSFET P-channel 30 V, 0.024 Ohm typ., 6 A STripFET H6 Power MOSFET in a PowerFLAT 3.3 x 3.3 package; 0.9; STMicroelectronics; STL6P3LLH6; 511-STL6P3LLH6; https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STL6P3LLH6?qs=DqCdCwOw4%2F6Sn4l3cEaG7Q%3D%3D; STL6P3LLH6;  
+Q2;STL6P3LLH6_STL8N10F7; ; STL6P3LLH6; https://www.arrow.com/en/products/stl6p3llh6/stmicroelectronics?utm_currency=USD&region=nac; https://www.mouser.com/datasheet/2/389/stl6p3llh6-1851075.pdf; MOSFET P-channel 30 V, 0.024 Ohm typ., 6 A STripFET H6 Power MOSFET in a PowerFLAT 3.3 x 3.3 package; 0.9; STMicroelectronics; STL6P3LLH6; 511-STL6P3LLH6; https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STL6P3LLH6?qs=DqCdCwOw4%2F6Sn4l3cEaG7Q%3D%3D; STL6P3LLH6;  
+R1;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 4.7K;  
+R10;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R11;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R12;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R13;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R14;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R15;Resistor_SMD_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 620;  
+R16;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 100K;  
+R17;Resistor_SMD_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 1.5K;  
+R18;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 100K;  
+R19;Resistor_SMD_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 10K;  
+R2;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 4.7K;  
+R20;Resistor_SMD_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 10K;  
+R21;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R22;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R23;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R24;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R25;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R26;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R27;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R28;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R29;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R3;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 499;  
+R30;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 10K;  
+R31;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 10K;  
+R32;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 470;  
+R33;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 1K;  
+R34;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 100K;  
+R35;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 100K;  
+R36;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 22K;  
+R37;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 100K;  
+R38;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 100;  
+R39;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 1K;  
+R4;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R40;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R41;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R42;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 82K;  
+R43;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 82K;  
+R44;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 49.9K;  
+R45;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 49.9K;  
+R46;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 10K;  
+R47;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 10K;  
+R48;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 71.5K;  
+R49;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 71.5K;  
+R5;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R50;Resistor_SMD_R_1206_3216Metric;R;  ;  ; ; FRM121WFR010TM;  ;  ;  ;  ;  ; 0.01;  
+R51;Resistor_SMD_R_1206_3216Metric;R;  ;  ; ; FRM121WFR010TM;  ;  ;  ;  ;  ; 0.01;  
+R52;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 100K;  
+R53;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 16.9K;  
+R54;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 100K;  
+R55;PCM_Resistor_SMD_AKL_R_0402_1005Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 16.9K;  
+R56;Resistor_SMD_R_1206_3216Metric;R;  ;  ; ; FRM121WFR010TM;  ;  ;  ;  ;  ; 0.01;  
+R57;Resistor_SMD_R_1206_3216Metric;R;  ;  ; ; FRM121WFR010TM;  ;  ;  ;  ;  ; 0.01;  
+R58;Resistor_SMD_R_1206_3216Metric;R;  ;  ; ; FRM121WFR010TM;  ;  ;  ;  ;  ; 0.01;  
+R6;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R7;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R8;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+R9;PCM_Resistor_SMD_AKL_R_0201_0603Metric;R;  ;  ; ; Resistor;  ;  ;  ;  ;  ; 0;  
+SW1;Button_Switch_SMD_SW_SPST_B3U-1000P; ;  ;  ; ; Push button switch, generic, two pins;  ;  ;  ;  ;  ; TS-1088-AR02016;  
+SW2;Button_Switch_SMD_SW_SPST_B3U-1000P; ;  ;  ; ; Push button switch, generic, two pins;  ;  ;  ;  ;  ; TS-1088-AR02016;  
+TP1;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP10;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP11;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP12;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP13;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP14;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP15;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP16;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP17;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP18;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP19;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP2;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP20;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP21;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP22;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP23;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP24;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP25;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP26;TestPoint_TestPoint_power; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP3;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP4;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP5;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP6;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP7;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP8;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+TP9;TestPoint_TestPoint_Pad_D1.5mm; ;  ;  ; ; test point;  ;  ;  ;  ;  ; TestPoint;  
+U1;Package_TO_SOT_SMD_SOT-223-3_TabPin2; ;  ;  ; http://www.diodes.com/datasheets/AP1117.pdf; 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223;  ;  ;  ;  ;  ; AP1117-33;  
+U10;TPS55289RYQR_TPS55289RYQR; ; TPS55289RYQR; https://www.arrow.com/en/products/tps55289ryqr/texas-instruments?region=nac; https://www.ti.com/lit/ds/symlink/tps55289.pdf?ts=1664818706180&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS55289%252Fpart-details%252FTPS55289RYQR%253FkeyMatch%253DTPS55289RYQR; 30-V, 8-A buck-boost converter with IC interface; 1; Texas Instruments; TPS55289RYQR; 595-TPS55289RYQR; https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS55289RYQR?qs=T%252BzbugeAwjhgaIN94Lbpjg%3D%3D; TPS55289RYQR;  
+U11;TPS55289RYQR_TPS55289RYQR; ; TPS55289RYQR; https://www.arrow.com/en/products/tps55289ryqr/texas-instruments?region=nac; https://www.ti.com/lit/ds/symlink/tps55289.pdf?ts=1664818706180&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS55289%252Fpart-details%252FTPS55289RYQR%253FkeyMatch%253DTPS55289RYQR; 30-V, 8-A buck-boost converter with IC interface; 1; Texas Instruments; TPS55289RYQR; 595-TPS55289RYQR; https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS55289RYQR?qs=T%252BzbugeAwjhgaIN94Lbpjg%3D%3D; TPS55289RYQR;  
+U12;LMR16030_LMR16030; ; LMR16030SDDAR; https://www.arrow.com/en/products/lmr16030sddar/texas-instruments?utm_currency=USD&region=nac; http://www.ti.com/lit/gpn/lmr16030; SIMPLE SWITCHER 60V, 3A Step-Down Converter with 40uA Iq; 1.7; Texas Instruments; LMR16030SDDAR; 595-LMR16030SDDAR; https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR16030SDDAR?qs=n%252BTO0c4TDSa4K%2F5N8LGrrw%3D%3D; LMR16030PDDAR;  
+U13;LMR16030_LMR16030; ; LMR16030SDDAR; https://www.arrow.com/en/products/lmr16030sddar/texas-instruments?utm_currency=USD&region=nac; http://www.ti.com/lit/gpn/lmr16030; SIMPLE SWITCHER 60V, 3A Step-Down Converter with 40uA Iq; 1.7; Texas Instruments; LMR16030SDDAR; 595-LMR16030SDDAR; https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR16030SDDAR?qs=n%252BTO0c4TDSa4K%2F5N8LGrrw%3D%3D; LMR16030PDDAR;  
+U2;Package_DFN_QFN_QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm; ;  ;  ; https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf; RF Module, ESP32 SoC, RISC-V, WiFi 802.11b/n/g, Bluetooth LE 5, QFN32;  ;  ;  ;  ;  ; ESP32-C3;  
+U3;Package_DFN_QFN_QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm; ;  ;  ; https://www.st.com/resource/en/datasheet/stusb4500.pdf; Stand-alone USB PD controller (with sink Auto-run mode), QFN-24;  ;  ;  ;  ;  ; STUSB4500QTR;  
+U4;Package_SO_TSSOP-24_4.4x7.8mm_P0.65mm; ;  ;  ; https://www.nxp.com/docs/en/data-sheet/PCA9555.pdf; IO expander 16 GPIO, I2C 400kHz, Interrupt, 2.3 - 5.5V, TSSOP-24;  ;  ;  ;  ;  ; PCA9555PW;  
+U5;Package_SO_SOIC-8_5.3x5.3mm_P1.27mm; ;  ;  ; https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf; 128Mbit / 16MiB Serial Flash Memory, Standard/Dual/Quad SPI, 2.7-3.6V, SOIC-8;  ;  ;  ;  ;  ; W25Q128JVS;  
+U6;Package_TO_SOT_SMD_SOT-23-5; ;  ;  ; http://www.ti.com/lit/ds/symlink/ina180.pdf; Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 50 V/V, SOT-23-5;  ;  ;  ;  ;  ; INA180A2;  
+U7;Package_TO_SOT_SMD_SOT-23-5; ;  ;  ; http://www.ti.com/lit/ds/symlink/ina180.pdf; Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 50 V/V, SOT-23-5;  ;  ;  ;  ;  ; INA180A2;  
+U8;Package_TO_SOT_SMD_SOT-23-5; ;  ;  ; http://www.ti.com/lit/ds/symlink/ina180.pdf; Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 50 V/V, SOT-23-5;  ;  ;  ;  ;  ; INA180A2;  
+U9;Package_TO_SOT_SMD_SOT-23-5; ;  ;  ; http://www.ti.com/lit/ds/symlink/ina180.pdf; Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 50 V/V, SOT-23-5;  ;  ;  ;  ;  ; INA180A2;  
+UNNAMED118;_; ;  ;  ; ; ;  ;  ;  ;  ;  ; ;  
+UNNAMED159;_; ;  ;  ; ; ;  ;  ;  ;  ;  ; ;  
+UNNAMED31;_; ;  ;  ; ; ;  ;  ;  ;  ;  ; ;  
+UNNAMED65;_; ;  ;  ; ; ;  ;  ;  ;  ;  ; ;  
+Y1;Crystal_Crystal_SMD_3225-4Pin_3.2x2.5mm; ;  ;  ; ; Four pin crystal, GND on pins 2 and 4, small symbol;  ;  ;  ;  ;  ; X322540MPB4SI;  
+kibuzzard-689E2C41;_kibuzzard-689E2C41; ;  ;  ; ; ;  ;  ;  ;  ;  ; G***;  
+C19;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1uF;  
+C20;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1uF;  
+C21;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 1uF;  
+C22;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C23;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C24;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C32;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C33;Capacitor_SMD_C_0402_1005Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 100nF;  
+C34;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C35;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C37;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C38;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C39;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C40;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C45;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C46;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C47;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+C48;Capacitor_SMD_C_0805_2012Metric;C;  ;  ; ; Unpolarized capacitor;  ;  ;  ;  ;  ; 22uF; 25V
+G***;_LOGO; ;  ;  ; ; ;  ;  ;  ;  ;  ; LOGO;  

@@ -1,0 +1,336 @@
+*** STARTING PCB CONVERSION ***
+
+Importing D:\Github_dev\USB-PD-Voltage-supply\USB-PD-Voltage-supply-odb.zip... [Mon Aug 25 22:43:01 2025]
+============================================================
+Reading ODB++ database ...
+
+Reading file misc/info...
+Reading file matrix/matrix...
+Reading file steps/pcb/profile...
+Reading file steps/pcb/eda/data...
+HDR = KiCad EDA 9.0.0
+WARNING: unexpected syntax of EDA data file:<File eda\data, line 6>
+WARNING: unexpected syntax of EDA data file:<File eda\data, line 10>
+WARNING: package C_0402_1005Metric specified twice (skipped)
+WARNING: package R_0402_1005Metric specified twice (skipped)
+WARNING: package R_0201_0603Metric specified twice (skipped)
+WARNING: package R_0402_1005Metric specified twice (skipped)
+WARNING: package R_0201_0603Metric specified twice (skipped)
+WARNING: package C_0201_0603Metric specified twice (skipped)
+WARNING: package TestPoint_Pad_D1.5mm specified twice (skipped)
+WARNING: package C_0402_1005Metric specified twice (skipped)
+WARNING: package R_0402_1005Metric specified twice (skipped)
+WARNING: package C_0805_2012Metric specified twice (skipped)
+WARNING: package D_SMB_TVS specified twice (skipped)
+WARNING: package TestPoint_Pad_D1.5mm specified twice (skipped)
+WARNING: package R_0201_0603Metric specified twice (skipped)
+WARNING: package STL8N10F7 specified twice (skipped)
+WARNING: package C_0201_0603Metric specified twice (skipped)
+WARNING: package R_1206_3216Metric specified twice (skipped)
+WARNING: package TestPoint_Pad_D1.5mm specified twice (skipped)
+WARNING: package D_SMB_TVS specified twice (skipped)
+WARNING: package C_0805_2012Metric specified twice (skipped)
+WARNING: package R_0402_1005Metric specified twice (skipped)
+WARNING: package L_APV_APH1040 specified twice (skipped)
+WARNING: package C_0402_1005Metric specified twice (skipped)
+WARNING: package D_SMA specified twice (skipped)
+WARNING: package TestPoint_Pad_D1.5mm specified twice (skipped)
+WARNING: package Fuse_1812_4532Metric specified twice (skipped)
+WARNING: package SW_SPST_B3U-1000P specified twice (skipped)
+WARNING: package C_0805_2012Metric specified twice (skipped)
+WARNING: package R_1206_3216Metric specified twice (skipped)
+WARNING: package C_0402_1005Metric specified twice (skipped)
+WARNING: package C_0805_2012Metric specified twice (skipped)
+WARNING: package LOGO specified twice (skipped)
+WARNING: package LOGO specified twice (skipped)
+WARNING: package C_0402_1005Metric specified twice (skipped)
+WARNING: package LOGO specified twice (skipped)
+eda data: 39 packages, 157 nets.
+Reading file steps/pcb/layers/f.mask/features...
+820 SWHs on layer F.MASK
+Reading file steps/pcb/layers/f.cu/features...
+2472 SWHs on layer F.CU
+Reading file steps/pcb/layers/dielectric_1/features...
+0 SWHs on layer DIELECTRIC_1
+Reading file steps/pcb/layers/in1.cu/features...
+1240 SWHs on layer IN1.CU
+Reading file steps/pcb/layers/dielectric_2/features...
+0 SWHs on layer DIELECTRIC_2
+Reading file steps/pcb/layers/in2.cu/features...
+1318 SWHs on layer IN2.CU
+Reading file steps/pcb/layers/dielectric_3/features...
+0 SWHs on layer DIELECTRIC_3
+Reading file steps/pcb/layers/b.cu/features...
+1517 SWHs on layer B.CU
+Reading file steps/pcb/layers/b.mask/features...
+104 SWHs on layer B.MASK
+Reading file steps/pcb/layers/f.mask/attrlist...
+Reading file steps/pcb/layers/f.cu/attrlist...
+Reading file steps/pcb/layers/dielectric_1/attrlist...
+Reading file steps/pcb/layers/in1.cu/attrlist...
+Reading file steps/pcb/layers/dielectric_2/attrlist...
+Reading file steps/pcb/layers/in2.cu/attrlist...
+Reading file steps/pcb/layers/dielectric_3/attrlist...
+Reading file steps/pcb/layers/b.cu/attrlist...
+Reading file steps/pcb/layers/b.mask/attrlist...
+WARNING: material values were set to default due to missing information for the following layers:  'F.MASK', 'F.CU', 'DIELECTRIC_1', 'IN1.CU', 'DIELECTRIC_2', 'IN2.CU', 'DIELECTRIC_3', 'B.CU', 'B.MASK'
+parsing drills F.CU-B.CU
+Reading file steps/pcb/layers/drill_plated_f.cu-b.cu/features...
+parsing drills F.CU-B.CU
+Reading file steps/pcb/layers/drill_non-plated_f.cu-b.cu/features...
+Reading file steps/pcb/layers/comp_+_top/components...
+Reading file steps/pcb/layers/comp_+_bot/components...
+WARNING: didn't find pad for pin PAD0 from component R28, placed pin on component side
+['f.paste'] [] (2262.8, 2490.16)
+WARNING: didn't find pad for pin PAD1 from component R28, placed pin on component side
+['f.paste'] [] (2289.96, 2490.16)
+WARNING: didn't find pad for pin PAD0 from component C14, placed pin on component side
+['f.paste'] [] (1778.15, 2293.31)
+WARNING: didn't find pad for pin PAD1 from component C14, placed pin on component side
+['f.paste'] [] (1750.98, 2293.31)
+WARNING: didn't find pad for pin PAD0 from component R9, placed pin on component side
+['f.paste'] [] (1749.41, 2356.3)
+WARNING: didn't find pad for pin PAD1 from component R9, placed pin on component side
+['f.paste'] [] (1776.57, 2356.3)
+WARNING: didn't find pad for pin PAD0 from component R35, placed pin on component side
+['f.paste'] [] (1776.57, 2171.26)
+WARNING: didn't find pad for pin PAD1 from component R35, placed pin on component side
+['f.paste'] [] (1749.41, 2171.26)
+WARNING: didn't find pad for pin PAD0 from component R24, placed pin on component side
+['f.paste'] [] (1954.72, 2110.04)
+WARNING: didn't find pad for pin PAD1 from component R24, placed pin on component side
+['f.paste'] [] (1954.72, 2082.87)
+WARNING: didn't find pad for pin PAD0 from component R14, placed pin on component side
+['f.paste'] [] (1747.83, 2120.08)
+WARNING: didn't find pad for pin PAD1 from component R14, placed pin on component side
+['f.paste'] [] (1775, 2120.08)
+WARNING: didn't find pad for pin PAD0 from component C15, placed pin on component side
+['f.paste'] [] (1807.09, 2105.31)
+WARNING: didn't find pad for pin PAD1 from component C15, placed pin on component side
+['f.paste'] [] (1807.09, 2078.15)
+WARNING: didn't find pad for pin NPTH0 from component J4, placed pin on component side
+['b.mask', 'f.mask'] [] (267.913, 2454.33)
+WARNING: didn't find pad for pin NPTH1 from component J4, placed pin on component side
+['b.mask', 'f.mask'] [] (267.913, 2226.77)
+WARNING: didn't find pad for pin PAD0 from component R5, placed pin on component side
+['f.paste'] [] (2124.61, 2175.2)
+WARNING: didn't find pad for pin PAD1 from component R5, placed pin on component side
+['f.paste'] [] (2097.44, 2175.2)
+WARNING: didn't find pad for pin PAD0 from component L2, placed pin on component side
+['f.paste'] [] (2193.5, 2320.87)
+WARNING: didn't find pad for pin PAD1 from component L2, placed pin on component side
+['f.paste'] [] (2166.34, 2320.87)
+WARNING: didn't find pad for pin PAD0 from component R4, placed pin on component side
+['f.paste'] [] (2124.61, 2143.7)
+WARNING: didn't find pad for pin PAD1 from component R4, placed pin on component side
+['f.paste'] [] (2097.44, 2143.7)
+WARNING: didn't find pad for pin PAD0 from component R26, placed pin on component side
+['f.paste'] [] (2009.84, 2109.25)
+WARNING: didn't find pad for pin PAD1 from component R26, placed pin on component side
+['f.paste'] [] (2009.84, 2082.09)
+WARNING: didn't find pad for pin PAD0 from component R31, placed pin on component side
+['f.paste'] [] (1677.17, 2220.67)
+WARNING: didn't find pad for pin PAD1 from component R31, placed pin on component side
+['f.paste'] [] (1677.17, 2247.83)
+WARNING: didn't find pad for pin PAD0 from component C18, placed pin on component side
+['f.paste'] [] (2051.18, 2486.22)
+WARNING: didn't find pad for pin PAD1 from component C18, placed pin on component side
+['f.paste'] [] (2078.35, 2486.22)
+WARNING: didn't find pad for pin PAD0 from component R7, placed pin on component side
+['f.paste'] [] (1885.83, 2421.85)
+WARNING: didn't find pad for pin PAD1 from component R7, placed pin on component side
+['f.paste'] [] (1885.83, 2394.69)
+WARNING: didn't find pad for pin PAD0 from component R2, placed pin on component side
+['f.paste'] [] (2097.44, 2206.69)
+WARNING: didn't find pad for pin PAD1 from component R2, placed pin on component side
+['f.paste'] [] (2124.61, 2206.69)
+WARNING: didn't find pad for pin PAD0 from component C17, placed pin on component side
+['f.paste'] [] (1838.58, 2106.89)
+WARNING: didn't find pad for pin PAD1 from component C17, placed pin on component side
+['f.paste'] [] (1838.58, 2079.72)
+WARNING: didn't find pad for pin PAD0 from component R22, placed pin on component side
+['f.paste'] [] (1899.61, 2110.04)
+WARNING: didn't find pad for pin PAD1 from component R22, placed pin on component side
+['f.paste'] [] (1899.61, 2082.87)
+WARNING: didn't find pad for pin PAD0 from component R25, placed pin on component side
+['f.paste'] [] (1982.28, 2110.04)
+WARNING: didn't find pad for pin PAD1 from component R25, placed pin on component side
+['f.paste'] [] (1982.28, 2082.87)
+WARNING: didn't find pad for pin PAD0 from component R29, placed pin on component side
+['f.paste'] [] (2262.8, 2458.66)
+WARNING: didn't find pad for pin PAD1 from component R29, placed pin on component side
+['f.paste'] [] (2289.96, 2458.66)
+WARNING: didn't find pad for pin PAD0 from component U3, placed pin on component side
+['f.paste'] [] (616.142, 2186.52)
+WARNING: didn't find pad for pin PAD1 from component U3, placed pin on component side
+['f.paste'] [] (616.142, 2133.37)
+WARNING: didn't find pad for pin PAD2 from component U3, placed pin on component side
+['f.paste'] [] (669.291, 2186.52)
+WARNING: didn't find pad for pin PAD3 from component U3, placed pin on component side
+['f.paste'] [] (669.291, 2133.37)
+WARNING: didn't find pad for pin PAD0 from component R27, placed pin on component side
+['f.paste'] [] (2341.54, 2553.15)
+WARNING: didn't find pad for pin PAD1 from component R27, placed pin on component side
+['f.paste'] [] (2368.7, 2553.15)
+WARNING: didn't find pad for pin PAD0 from component L3, placed pin on component side
+['f.paste'] [] (2051.18, 2429.33)
+WARNING: didn't find pad for pin PAD1 from component L3, placed pin on component side
+['f.paste'] [] (2051.18, 2456.5)
+WARNING: didn't find pad for pin PAD0 from component R34, placed pin on component side
+['f.paste'] [] (1854.33, 2394.69)
+WARNING: didn't find pad for pin PAD1 from component R34, placed pin on component side
+['f.paste'] [] (1854.33, 2421.85)
+WARNING: didn't find pad for pin PAD0 from component R8, placed pin on component side
+['f.paste'] [] (1749.41, 2387.8)
+WARNING: didn't find pad for pin PAD1 from component R8, placed pin on component side
+['f.paste'] [] (1776.57, 2387.8)
+WARNING: didn't find pad for pin PAD0 from component R13, placed pin on component side
+['f.paste'] [] (1750.98, 2198.82)
+WARNING: didn't find pad for pin PAD1 from component R13, placed pin on component side
+['f.paste'] [] (1778.15, 2198.82)
+WARNING: didn't find pad for pin PAD0 from component C9, placed pin on component side
+['f.paste'] [] (2069.09, 2332.68)
+WARNING: didn't find pad for pin PAD1 from component C9, placed pin on component side
+['f.paste'] [] (2096.26, 2332.68)
+WARNING: didn't find pad for pin PAD0 from component R30, placed pin on component side
+['f.paste'] [] (1677.17, 2303.94)
+WARNING: didn't find pad for pin PAD1 from component R30, placed pin on component side
+['f.paste'] [] (1677.17, 2276.77)
+WARNING: didn't find pad for pin PAD0 from component C16, placed pin on component side
+['f.paste'] [] (2051.38, 2399.61)
+WARNING: didn't find pad for pin PAD1 from component C16, placed pin on component side
+['f.paste'] [] (2078.54, 2399.61)
+WARNING: didn't find pad for pin PAD0 from component R23, placed pin on component side
+['f.paste'] [] (1927.17, 2110.04)
+WARNING: didn't find pad for pin PAD1 from component R23, placed pin on component side
+['f.paste'] [] (1927.17, 2082.87)
+WARNING: didn't find pad for pin PAD0 from component R21, placed pin on component side
+['f.paste'] [] (1872.05, 2110.04)
+WARNING: didn't find pad for pin PAD1 from component R21, placed pin on component side
+['f.paste'] [] (1872.05, 2082.87)
+WARNING: didn't find pad for pin PAD0 from component R11, placed pin on component side
+['f.paste'] [] (1750.98, 2230.31)
+WARNING: didn't find pad for pin PAD1 from component R11, placed pin on component side
+['f.paste'] [] (1778.15, 2230.31)
+WARNING: didn't find pad for pin PAD0 from component R6, placed pin on component side
+['f.paste'] [] (1917.32, 2421.85)
+WARNING: didn't find pad for pin PAD1 from component R6, placed pin on component side
+['f.paste'] [] (1917.32, 2394.69)
+WARNING: didn't find pad for pin PAD0 from component C1, placed pin on component side
+['f.paste'] [] (2230.12, 2120.08)
+WARNING: didn't find pad for pin PAD1 from component C1, placed pin on component side
+['f.paste'] [] (2202.95, 2120.08)
+WARNING: didn't find pad for pin PAD0 from component R10, placed pin on component side
+['f.paste'] [] (1749.41, 2261.81)
+WARNING: didn't find pad for pin PAD1 from component R10, placed pin on component side
+['f.paste'] [] (1776.57, 2261.81)
+WARNING: didn't find pad for pin PAD0 from component U2, placed pin on component side
+['f.paste'] [] (1958.66, 2284.45)
+WARNING: didn't find pad for pin PAD1 from component U2, placed pin on component side
+['f.paste'] [] (1885.83, 2284.45)
+WARNING: didn't find pad for pin PAD2 from component U2, placed pin on component side
+['f.paste'] [] (1958.66, 2211.61)
+WARNING: didn't find pad for pin PAD3 from component U2, placed pin on component side
+['f.paste'] [] (1885.83, 2211.61)
+WARNING: didn't find pad for pin NPTH0 from component J1, placed pin on component side
+['b.mask', 'f.mask'] [] (212.598, 1805.12)
+WARNING: didn't find pad for pin NPTH1 from component J1, placed pin on component side
+['b.mask', 'f.mask'] [] (389.764, 1805.12)
+WARNING: didn't find pad for pin PAD0 from component R3, placed pin on component side
+['f.paste'] [] (2594.49, 1531.69)
+WARNING: didn't find pad for pin PAD1 from component R3, placed pin on component side
+['f.paste'] [] (2594.49, 1558.86)
+WARNING: didn't find pad for pin PAD0 from component C6, placed pin on component side
+['f.paste'] [] (1948.82, 2393.11)
+WARNING: didn't find pad for pin PAD1 from component C6, placed pin on component side
+['f.paste'] [] (1948.82, 2420.28)
+WARNING: didn't find pad for pin PAD0 from component C4, placed pin on component side
+['f.paste'] [] (1909.45, 2484.84)
+WARNING: didn't find pad for pin PAD1 from component C4, placed pin on component side
+['f.paste'] [] (1909.45, 2457.68)
+WARNING: didn't find pad for pin PAD0 from component C5, placed pin on component side
+['f.paste'] [] (2232.48, 2320.87)
+WARNING: didn't find pad for pin PAD1 from component C5, placed pin on component side
+['f.paste'] [] (2259.65, 2320.87)
+WARNING: didn't find pad for pin PAD0 from component R12, placed pin on component side
+['f.paste'] [] (1749.41, 2324.8)
+WARNING: didn't find pad for pin PAD1 from component R12, placed pin on component side
+['f.paste'] [] (1776.57, 2324.8)
+WARNING: didn't find pad for pin PAD0 from component R1, placed pin on component side
+['f.paste'] [] (2097.44, 2112.2)
+WARNING: didn't find pad for pin PAD1 from component R1, placed pin on component side
+['f.paste'] [] (2124.61, 2112.2)
+WARNING: didn't find pad for pin PAD0 from component C8, placed pin on component side
+['f.paste'] [] (2069.09, 2301.18)
+WARNING: didn't find pad for pin PAD1 from component C8, placed pin on component side
+['f.paste'] [] (2096.26, 2301.18)
+WARNING: different refdes prefixes in component group Resistor_SMD_R_1206_3216Metric: 
+	 R58
+	 R56
+	 R57
+	 R50
+	 AE1
+	 R51
+INFO: 18537 duplicate vertices ignored
+========================================
+INFO: Created CSV file (C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Temp\PCBS\Design\design.csv) with component properties extracted from ODB++ file.
+========================================
+========================================
+Lumped-element import (C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Temp\PCBS\Design\design.csv)...
+Detected ' ; ' as separator.
+
+Value-string translations:
+	0 ->  0.0 Ohm (R)
+	0.01 ->  10.0 mOhm (R)
+	1.2pF ->  1.2 pF (C)
+	1.5K ->  1.5 kOhm (R)
+	1.8pF ->  1.8 pF (C)
+	100 ->  100.0 Ohm (R)
+	100K ->  100.0 kOhm (R)
+	100nF ->  100.0 nF (C)
+	10K ->  10.0 kOhm (R)
+	10pF ->  10.0 pF (C)
+	10uF ->  10.0 uF (C)
+	16.9K ->  16.9 kOhm (R)
+	1K ->  1.0 kOhm (R)
+	1uF ->  1.0 uF (C)
+	2.2nF ->  2.2 nF (C)
+	22K ->  22.0 kOhm (R)
+	22uF ->  22.0 uF (C)
+	24nH ->  24.0 nH (L)
+	24pF ->  24.0 pF (C)
+	2nH ->  2.0 nH (L)
+	3nH ->  3.0 nH (L)
+	4.7K ->  4.7 kOhm (R)
+	4.7uF ->  4.7 uF (C)
+	470 ->  470.0 Ohm (R)
+	47uF ->  47.0 uF (C)
+	49.9K ->  49.9 kOhm (R)
+	499 ->  499.0 Ohm (R)
+	620 ->  620.0 Ohm (R)
+	71.5K ->  71.5 kOhm (R)
+	82K ->  82.0 kOhm (R)
+WARNING: interpreted as short: 0.0 Ohm
+WARNING: unable to interpret: IHLP4040DZER4R7M01
+WARNING: unable to interpret: IHLP4040DZER100M01
+========================================
+WARNING: There were some warnings while importing the auto-generated CSV-file 'C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Temp\PCBS\Design\design.csv'. Please review the auto-generated file under Parts Editor->Load (csv).
+========================================
+WARNING: renamed pins with the same name for component J4 from S1 to S1(1), S1(2), S1(3)
+WARNING: renamed pins with the same name for component TP15 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP16 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP17 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP18 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP19 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP20 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP21 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP22 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP23 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP24 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP25 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component TP26 from 1 to 1(1), 1(2), 1(3), 1(4), 1(5), 1(6), 1(7), 1(8), 1(9), 1(10), 1(11), 1(12), 1(13), 1(14), 1(15), 1(16)
+WARNING: renamed pins with the same name for component U1 from 2 to 2(1)
+Unifying library padstacks...
+Finished reading database.
+============================================================
+*** ENDING PCB CONVERSION with SUCCESS***

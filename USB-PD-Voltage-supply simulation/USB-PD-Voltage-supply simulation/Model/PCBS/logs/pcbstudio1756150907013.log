@@ -1,0 +1,1207 @@
+Aug 25, 2025 10:41:44 PM com.simlab.core.AbstractLoader printLogHeader
+INFO: CST PCB Studio -cst-version:2024:1:20231016 Windows 11 amd64 windows-1251
+Java version=17.0.4.1+1 __COMPAT_LAYER: DPIUnaware sun.java2d.uiScale=false-null
+Start time: Mon Aug 25 22:41:44 MSK 2025
+Aug 25, 2025 10:41:44 PM com.simlab.core.AbstractLoader lambda$main$5
+INFO: SetLookAndFeel=com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Try to load dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\buscomm_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Loaded dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\buscomm_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Try to load dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\slcore_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Loaded dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\slcore_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Try to load dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\slstudio_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Loaded dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\slstudio_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Try to load dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\pcbmod_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Loaded dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\pcbmod_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Try to load dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\cabmod_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.simlab.core.DllLoader forceLoad
+INFO: Loaded dll: C:\Program Files (x86)\CST Studio Suite 2024\AMD64\cabmod_AMD64.dll
+Aug 25, 2025 10:41:45 PM com.cst.de.DEConnectArgs parse
+INFO: Batch mode: false
+Aug 25, 2025 10:41:45 PM com.cst.de.DEConnectArgs parse
+INFO: Testsuite mode: false
+Aug 25, 2025 10:41:45 PM com.cst.core.StudioUtils startSuicideProcess
+INFO: Suicide process started=true for ppid=42112my process ID=44552
+Aug 25, 2025 10:41:45 PM com.cst.de.bus.DEBusComm$PostCreationCallback run
+INFO: DEInterface has been created. deInterface=com.cst.pcbs.PCBSDeInterface@3a1d72a7
+Aug 25, 2025 10:41:45 PM com.cst.de.bus.DEBusComm registerWaitFor
+INFO: Register wait for: com.cst.pcbs.PCBSDeInterface@3a1d72a7
+Aug 25, 2025 10:41:45 PM com.cst.de.bus.DEBusComm$ReadyForProjectLoadManager registerWaitForProjectLoad
+INFO: Register for project load: com.cst.pcbs.PCBSDeInterface@3a1d72a7
+Aug 25, 2025 10:41:45 PM com.cst.core.StudioDialogFactory pushModalEventQueue
+INFO: ModalEventQueue is disabled
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEBusComm registerWaitFor
+INFO: Register wait for: com.cst.pcbs.DSInterface@3073dec1
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEBusComm registerWaitFor
+INFO: Register wait for: com.cst.pcbs.PCBViewLaunchSynchronizer@796c354b
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEInterface initializationStatus
+INFO: initializationStatus=START
+Aug 25, 2025 10:41:46 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.PCBSDeInterface
+method: setWorksheetTitle
+Aug 25, 2025 10:41:46 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.PCBSDeInterface
+method: tilingModeChanged
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEBusComm$ReadyForProjectLoadManager reportReadyForProjectLoad
+INFO: Report ready for project load: com.cst.pcbs.PCBSDeInterface@3a1d72a7
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEBusComm$ReadyForProjectLoadManager reportReadyForProjectLoad
+INFO: Ready for project load (set is empty)
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEBusComm$ReadyForProjectLoadRunnable run
+INFO: Calling fireReadyForProjectLoad. _deInterface=com.cst.pcbs.PCBSDeInterface@3a1d72a7
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEInterface initializationStatus
+INFO: initializationStatus=INIT_READYFORPROJECTLOAD
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEInterface loadProjectBus
+INFO: LoadProject: C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0.cst
+Aug 25, 2025 10:41:46 PM com.cst.de.bus.DEInterface loadProjectBus
+INFO: LoadProject->isNewProject: true
+Aug 25, 2025 10:41:46 PM com.simlab.core.ApplicationManager setNewProject
+INFO: Opening project C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:41:46 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Opening project 'StudioProject' ...
+Aug 25, 2025 10:41:46 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'PCB Layout'...
+Aug 25, 2025 10:41:46 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'PCB Layout' finished
+Aug 25, 2025 10:41:46 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.ifxview.IFXViewController@1fc15900 module: class com.cst.core.StudioCenterModule
+Aug 25, 2025 10:41:46 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBSSelManController@27b0f0b4 module: class com.cst.core.StudioWestModule
+Aug 25, 2025 10:41:46 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioAttributesManagerController@49c20c2e module: class com.cst.core.StudioBotEastModule
+Aug 25, 2025 10:41:47 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Project 'StudioProject' opened.
+Aug 25, 2025 10:41:47 PM com.cst.de.bus.DEBusComm reportReady
+INFO: Report ready: com.cst.pcbs.PCBSDeInterface@3a1d72a7
+Aug 25, 2025 10:41:48 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.ifx.IfxPcbViewerInterface
+method: setWorksheetTitle
+Aug 25, 2025 10:41:48 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.ifx.IfxPcbViewerInterface
+method: tilingModeChanged
+Aug 25, 2025 10:41:48 PM com.cst.de.bus.DEBusComm reportReady
+INFO: Report ready: com.cst.pcbs.PCBViewLaunchSynchronizer@796c354b
+Aug 25, 2025 10:41:48 PM com.cst.de.bus.DEBusComm reportReady
+INFO: Report ready: com.cst.pcbs.DSInterface@3073dec1
+Aug 25, 2025 10:41:48 PM com.cst.de.bus.DEInterface initializationStatus
+INFO: initializationStatus=Done
+Aug 25, 2025 10:41:48 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.PCBSDeInterface
+method: SetPoweredByMode
+Aug 25, 2025 10:41:48 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.ifx.IfxPcbViewerInterface
+method: SetPoweredByMode
+Aug 25, 2025 10:41:48 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.PCBSDeInterface
+method: SetPoweredByMode
+Aug 25, 2025 10:41:48 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.ifx.IfxPcbViewerInterface
+method: SetPoweredByMode
+Aug 25, 2025 10:41:48 PM com.cst.de.bus.DEInterface UpdateFrontendLicenseStatus
+INFO: UpdateFrontendLicenseStatus=true
+Aug 25, 2025 10:41:51 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.imports.LayoutImportController@3444b40e module: class com.cst.pcbs.imports.LayoutImportManagerModule
+Aug 25, 2025 10:43:00 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'Layouts' view...
+Aug 25, 2025 10:43:00 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.imports.LayoutImportController
+Aug 25, 2025 10:43:00 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'Layouts' view finished
+Aug 25, 2025 10:43:00 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.imports.LayoutImportController
+Aug 25, 2025 10:43:00 PM com.cst.de.SolverServiceInterface requestService
+INFO: request solver service
+Aug 25, 2025 10:43:00 PM com.cst.de.SolverServiceInterface OnRequestSolverService
+INFO: OnRequestSolverService: true
+Aug 25, 2025 10:43:00 PM com.cst.de.bus.DEInterface OnLockUI_Slt
+INFO: OnLockUI_Slt
+Aug 25, 2025 10:43:00 PM com.cst.de.SolverServiceInterface SolverServiceStartedCallback
+INFO: SolverServiceStartedCallback: true
+Aug 25, 2025 10:43:00 PM com.cst.de.SolverServiceInterface startSolverWithEnvVars
+INFO: startSolverWithEnvVars: SOLVER_PCBIMPORT
+Aug 25, 2025 10:43:00 PM com.cst.de.SolverServiceInterface OnProcessStarted
+INFO: OnProcessStarted
+Aug 25, 2025 10:43:01 PM com.cst.de.bus.DEInterface OnLockUI_Slt
+INFO: OnLockUI_Slt
+Aug 25, 2025 10:43:03 PM com.cst.de.SolverServiceInterface OnProcessFinished
+INFO: OnProcessFinished:COM_SUCCESS
+Aug 25, 2025 10:43:03 PM com.cst.de.SolverServiceInterface OnStartSolverWithEnvVarsCallback
+INFO: OnStartSolverWithEnvVarsCallback: true
+Aug 25, 2025 10:43:03 PM com.cst.de.bus.DEInterface OnLockUI_Slt
+INFO: OnLockUI_Slt
+Aug 25, 2025 10:43:03 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: false
+Aug 25, 2025 10:43:03 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 10:43:03 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:43:03 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 10:43:03 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 23
+Aug 25, 2025 10:43:03 PM com.cst.core.SaveManager saveAs
+INFO: Saving finished.
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 10:43:03 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioAttributesManagerController
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IfxPcbView' view...
+Aug 25, 2025 10:43:03 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.ifxview.IFXViewController
+Aug 25, 2025 10:43:03 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.ifxview.IFXViewController
+Aug 25, 2025 10:43:03 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 3
+Aug 25, 2025 10:43:03 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioAttributesManagerController
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'Navigation Tree' view...
+Aug 25, 2025 10:43:03 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBSSelManController
+Aug 25, 2025 10:43:03 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBSSelManController
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IfxPcbView' view finished
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'Navigation Tree' view finished
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Project 'StudioProject' closed.
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Opening project 'StudioProject' ...
+Aug 25, 2025 10:43:03 PM com.simlab.core.ApplicationManager setNewProject
+INFO: Opening project C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:43:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'PCB Layout'...
+Aug 25, 2025 10:43:04 PM com.simlab.pcbmod.c_data.Network getClass
+WARNING: ClassC single-ended not found!
+Aug 25, 2025 10:43:04 PM com.simlab.pcbmod.c_data.Network getClass
+WARNING: ClassC differential not found!
+Aug 25, 2025 10:43:04 PM com.cst.pcbs.PCBSModel loadAthos
+INFO: Total load time needed: 205
+Aug 25, 2025 10:43:04 PM com.simlab.pcbmod.design.PCBDataObject loadData
+INFO: loadAthos=0 c
+Aug 25, 2025 10:43:04 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net Signal not found!
+Aug 25, 2025 10:43:04 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'PCB Layout' finished
+Aug 25, 2025 10:43:04 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.ifxview.IFXViewController@27c058ed module: class com.cst.core.StudioCenterModule
+Aug 25, 2025 10:43:04 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBSSelManController@67259e56 module: class com.cst.core.StudioWestModule
+Aug 25, 2025 10:43:04 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioAttributesManagerController@1ebf1352 module: class com.cst.core.StudioBotEastModule
+Aug 25, 2025 10:43:05 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Project 'StudioProject' opened.
+Aug 25, 2025 10:43:05 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.sim_wiz.PCBStudioSimWizardController@2b41edcd module: class com.cst.pcbs.modules.PCBStudioSimWizardModule
+Aug 25, 2025 10:44:44 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 10:44:44 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 10:44:44 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:44:44 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 10:44:44 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 69
+Aug 25, 2025 10:44:44 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 10:47:45 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 10:47:45 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 10:47:45 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:47:45 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 10:47:45 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 32
+Aug 25, 2025 10:47:45 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 10:50:46 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 10:50:46 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 10:50:46 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:50:46 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 10:50:46 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 38
+Aug 25, 2025 10:50:46 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 10:53:47 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 10:53:47 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 10:53:47 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:53:47 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 10:53:47 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 28
+Aug 25, 2025 10:53:47 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 10:56:47 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 10:56:47 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 10:56:47 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:56:47 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 10:56:47 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 29
+Aug 25, 2025 10:56:47 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 10:59:48 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 10:59:48 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 10:59:48 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 10:59:48 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 10:59:48 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 30
+Aug 25, 2025 10:59:48 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:02:49 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:02:49 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:02:49 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:02:49 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:02:49 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 30
+Aug 25, 2025 11:02:49 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:05:22 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis'...
+Aug 25, 2025 11:05:22 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis' finished
+Aug 25, 2025 11:05:22 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.sim.irdrop.IRDropManagerController@1091418d module: class com.cst.pcbs.sim.irdrop.ui.IRDropManagerModule
+Aug 25, 2025 11:05:22 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:05:22 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.sim_wiz.PCBStudioSimWizardController
+Aug 25, 2025 11:05:22 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PcbStudioCheckViewController
+Aug 25, 2025 11:05:22 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' Layout check report view...
+Aug 25, 2025 11:05:22 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PcbStudioCheckViewController
+Aug 25, 2025 11:05:22 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' Layout check report view finished
+Aug 25, 2025 11:05:22 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.sim_wiz.PCBStudioSimWizardController
+Aug 25, 2025 11:05:22 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:05:22 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:05:34 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view...
+Aug 25, 2025 11:05:34 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:05:34 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:05:34 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view finished
+Aug 25, 2025 11:05:37 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@4094f9a6 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:05:40 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:05:41 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:05:41 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:05:41 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:05:41 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@3679b94c module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:05:46 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:05:46 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:05:46 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:05:46 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:05:50 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:05:50 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:05:50 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:05:50 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:05:50 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 31
+Aug 25, 2025 11:05:50 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:05:55 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:06:50 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:06:59 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis'...
+Aug 25, 2025 11:06:59 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:06:59 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:06:59 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:06:59 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:06:59 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis' finished
+Aug 25, 2025 11:06:59 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.sim.irdrop.IRDropManagerController@bfcfea5 module: class com.cst.pcbs.sim.irdrop.ui.IRDropManagerModule
+Aug 25, 2025 11:06:59 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:07:03 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:07:04 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:07:05 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:07:08 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:07:20 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:07:26 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view...
+Aug 25, 2025 11:07:26 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:07:26 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:07:26 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view finished
+Aug 25, 2025 11:07:34 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:07:39 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:08:51 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:08:51 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:08:51 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:08:51 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:08:51 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 28
+Aug 25, 2025 11:08:51 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:09:21 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:09:25 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:09:59 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@79bd9502 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:11:52 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:11:52 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:11:52 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:11:52 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:11:52 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 31
+Aug 25, 2025 11:11:52 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:14:53 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:14:53 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:14:53 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:14:53 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:14:53 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 30
+Aug 25, 2025 11:14:53 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:17:05 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:17:05 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:17:05 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:17:05 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:17:53 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:17:53 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:17:53 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:17:53 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:17:54 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 27
+Aug 25, 2025 11:17:54 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:20:54 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:20:54 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:20:54 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:20:54 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:20:54 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 28
+Aug 25, 2025 11:20:54 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:23:55 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:23:55 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:23:55 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:23:55 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:23:55 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 27
+Aug 25, 2025 11:23:55 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:26:56 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:26:56 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:26:56 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:26:56 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:26:56 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 27
+Aug 25, 2025 11:26:56 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:29:28 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:29:57 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:29:57 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:29:57 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:29:57 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:29:57 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 27
+Aug 25, 2025 11:29:57 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Cannot find processor for class class com.simlab.pcbmod.design.partlib.LibPart
+Aug 25, 2025 11:30:18 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@23b3e69e module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:30:58 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:31:00 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:31:02 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:31:05 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:31:18 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:31:19 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:31:30 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:31:30 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:31:36 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:32:38 PM com.simlab.pcbmod.c_data.Network getNet
+WARNING: Net 1.0 not found!
+Aug 25, 2025 11:32:52 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:32:52 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:32:52 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:32:52 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:32:53 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:32:58 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:32:58 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:32:58 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:32:58 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:32:58 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 31
+Aug 25, 2025 11:32:58 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:33:36 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: false
+Aug 25, 2025 11:33:37 PM com.cst.core.SaveManager saveAs
+INFO: Save project
+ C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+ As
+ C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:33:37 PM com.cst.core.SaveManager saveAs
+INFO: CST PCB Studio Version: -cst-version:2024:1:20231016
+Aug 25, 2025 11:33:37 PM com.cst.core.SaveManager saveAs
+INFO: Start time: Mon Aug 25 23:33:37 MSK 2025
+Aug 25, 2025 11:33:37 PM com.cst.core.SaveManager saveAs
+INFO: Save project
+ C:\Users\vakva\AppData\Local\Temp\CSTDE1\Temp\DE\Untitled_0\Model\PCBS\PCBDes.spj
+ As
+ C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:33:37 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 28
+Aug 25, 2025 11:33:37 PM com.cst.core.SaveManager saveAs
+INFO: Saving finished.
+Aug 25, 2025 11:33:37 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.DSInterface
+method: GetProjectUnit
+Aug 25, 2025 11:33:37 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.DSInterface
+method: GetProjectUnit
+Aug 25, 2025 11:33:37 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.DSInterface
+method: GetProjectUnit
+Aug 25, 2025 11:33:37 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.PCBSDeInterface
+method: SetPoweredByMode
+Aug 25, 2025 11:33:37 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.ifx.IfxPcbViewerInterface
+method: SetPoweredByMode
+Aug 25, 2025 11:33:58 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@5ed50712 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:34:18 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:34:19 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:35:51 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:35:51 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:35:51 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:35:51 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:35:55 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.simlab.pcbmod.design.nets.NetEditorController@6e5d2dff module: class com.cst.pcbs.modules.PCBStudioNetEditorModule
+Aug 25, 2025 11:35:59 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:35:59 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:35:59 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:35:59 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:35:59 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 27
+Aug 25, 2025 11:35:59 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:36:18 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' Net Editor...
+Aug 25, 2025 11:36:18 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.simlab.pcbmod.design.nets.NetEditorController
+Aug 25, 2025 11:36:18 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.simlab.pcbmod.design.nets.NetEditorController
+Aug 25, 2025 11:36:18 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' Net Editor finished
+Aug 25, 2025 11:36:22 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@782720af module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:38:11 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:38:11 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:38:11 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:38:11 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:38:11 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:38:11 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:38:11 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:38:11 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:38:14 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:38:17 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@6a513fe4 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:38:17 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:38:17 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:38:17 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:38:17 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:38:31 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:38:31 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:38:31 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:38:31 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:38:31 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:38:31 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:38:31 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:38:31 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:38:54 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:38:54 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:38:54 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:38:54 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:39:00 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:39:00 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:39:00 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:39:00 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:39:00 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 27
+Aug 25, 2025 11:39:00 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:39:12 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@3d18f836 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:39:12 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:39:12 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-2* has no ground reference
+Aug 25, 2025 11:39:12 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:39:12 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-3* has no ground reference
+Aug 25, 2025 11:40:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:40:03 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:40:03 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:40:03 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:40:06 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@3fd49688 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:40:13 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:40:13 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:40:13 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:40:13 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:40:15 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@20962457 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:40:15 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-5* has no ground reference
+Aug 25, 2025 11:40:15 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-5* has no ground reference
+Aug 25, 2025 11:40:15 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:40:15 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:40:15 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:40:15 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:40:20 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:40:20 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:40:20 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:40:20 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:40:22 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@79f99f84 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:41:05 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:41:05 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:41:05 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:41:05 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:41:08 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@38cb6869 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:41:08 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-5* has no ground reference
+Aug 25, 2025 11:41:08 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-5* has no ground reference
+Aug 25, 2025 11:41:08 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:41:08 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:41:08 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:41:08 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:41:12 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:41:12 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:41:12 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:41:12 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:41:13 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:41:45 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@2550b33e module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:42:00 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:42:00 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:42:00 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:42:00 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:42:00 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 27
+Aug 25, 2025 11:42:00 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:42:17 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:42:17 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:42:17 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:42:17 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:42:19 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis'...
+Aug 25, 2025 11:42:19 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:42:19 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:42:19 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:42:19 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:42:19 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis' finished
+Aug 25, 2025 11:42:19 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.sim.irdrop.IRDropManagerController@3eb364c4 module: class com.cst.pcbs.sim.irdrop.ui.IRDropManagerModule
+Aug 25, 2025 11:42:20 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:42:35 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: J4-A9,J4-B9,J4-...(+5V_USB) has no pins
+Aug 25, 2025 11:42:35 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:42:50 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:43:01 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: J4-A9,J4-B9,J4-...(+5V_USB) has no pins
+Aug 25, 2025 11:43:05 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: J4-A9,J4-B9,J4-...(+5V_USB) has no pins
+Aug 25, 2025 11:43:07 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: J4-A9,J4-B9,J4-...(+5V_USB) has no pins
+Aug 25, 2025 11:43:07 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: J4-A9,J4-B9,J4-...(+5V_USB) has no pins
+Aug 25, 2025 11:43:11 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view...
+Aug 25, 2025 11:43:11 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:43:11 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:43:11 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view finished
+Aug 25, 2025 11:43:32 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@7fdd342a module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:43:32 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-5* has no ground reference
+Aug 25, 2025 11:43:32 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-5* has no ground reference
+Aug 25, 2025 11:43:32 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:43:32 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:43:32 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:43:32 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:43:57 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:43:57 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:43:58 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:43:58 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:44:02 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis'...
+Aug 25, 2025 11:44:02 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:44:02 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:44:02 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:44:02 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:44:02 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis' finished
+Aug 25, 2025 11:44:02 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.sim.irdrop.IRDropManagerController@1bbaed22 module: class com.cst.pcbs.sim.irdrop.ui.IRDropManagerModule
+Aug 25, 2025 11:44:02 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: J4-A9,J4-B9,J4-...(+5V_USB) has no pins
+Aug 25, 2025 11:44:02 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:44:04 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:44:18 PM com.cst.pcbs.sim.irdrop.IRDropSelection isIRDropSelectionGroupsReady
+WARNING: Setting are not ready for job: Q2-5 terminal 5 ground group is null
+Aug 25, 2025 11:44:18 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: Q2-5(PD-VOLTAGE) has no pins
+Aug 25, 2025 11:44:18 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:44:27 PM com.cst.pcbs.sim.irdrop.IRDropSelection isIRDropSelectionGroupsReady
+WARNING: Setting are not ready for job: Q2-5 terminal 5 ground group is null
+Aug 25, 2025 11:44:27 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: Q2-5(PD-VOLTAGE) has no pins
+Aug 25, 2025 11:44:29 PM com.cst.pcbs.sim.irdrop.IRDropSelection isIRDropSelectionGroupsReady
+WARNING: Setting are not ready for job: Q2-5 terminal 5 ground group is null
+Aug 25, 2025 11:44:29 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: Q2-5(PD-VOLTAGE) has no pins
+Aug 25, 2025 11:44:30 PM com.cst.pcbs.sim.irdrop.IRDropSelection isIRDropSelectionGroupsReady
+WARNING: Setting are not ready for job: Q2-5 terminal 5 ground group is null
+Aug 25, 2025 11:44:30 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: Q2-5(PD-VOLTAGE) has no pins
+Aug 25, 2025 11:44:45 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view...
+Aug 25, 2025 11:44:45 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:44:45 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:44:45 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view finished
+Aug 25, 2025 11:44:54 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@56ade284 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:44:54 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:44:54 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:44:54 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:44:54 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:45:01 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:45:01 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:45:01 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:45:01 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:45:01 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 30
+Aug 25, 2025 11:45:01 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:45:06 PM com.simlab.pcbmod.design.custom.partlib.AssignGroundRefDialog apply
+INFO: Assign ground pins performed.
+Aug 25, 2025 11:45:06 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:45:06 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:45:06 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:45:06 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:45:08 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:45:08 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:45:08 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:45:08 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:45:10 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis'...
+Aug 25, 2025 11:45:10 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:45:10 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:45:10 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:45:10 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:45:10 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis' finished
+Aug 25, 2025 11:45:10 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.sim.irdrop.IRDropManagerController@a7454a9 module: class com.cst.pcbs.sim.irdrop.ui.IRDropManagerModule
+Aug 25, 2025 11:45:10 PM com.cst.pcbs.sim.irdrop.IRDropSelection isIRDropSelectionGroupsReady
+WARNING: Setting are not ready for job: Q2-5 terminal 5 ground group is null
+Aug 25, 2025 11:45:10 PM com.cst.pcbs.sim.irdrop.IRDropSelectionGroupHolder hasPins
+WARNING: Setting are not ready for job: Q2-5(PD-VOLTAGE) has no pins
+Aug 25, 2025 11:45:10 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:45:14 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:45:20 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view...
+Aug 25, 2025 11:45:20 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:45:20 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:45:20 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view finished
+Aug 25, 2025 11:45:22 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@3c85a0dc module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:45:22 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:45:22 PM com.simlab.pcbmod.design.partlib.ic.IntegratedCircuitModel removeNotMatchingPowerGround
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:45:22 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-6* has no ground reference
+Aug 25, 2025 11:45:22 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: Supply power pin of 'Q2-7* has no ground reference
+Aug 25, 2025 11:45:46 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:45:46 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:45:46 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:45:46 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:45:49 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis'...
+Aug 25, 2025 11:45:49 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:45:49 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:45:49 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection
+Aug 25, 2025 11:45:49 PM com.cst.core.CSTLogger info
+INFO: Refreshing IRDrop selection finished
+Aug 25, 2025 11:45:49 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Loading 'IR Drop Analysis' finished
+Aug 25, 2025 11:45:49 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.sim.irdrop.IRDropManagerController@5cb4af25 module: class com.cst.pcbs.sim.irdrop.ui.IRDropManagerModule
+Aug 25, 2025 11:45:49 PM com.cst.de.bus.DEBusComm warningMessageImpl
+WARNING: No selectable pins/nets were found. Please check the component models of the PCB.
+  Any component with <Undefined> electrical model will be ignored and can affect the simulation setup and results.
+  Please make sure there are IO models with Voltage Source models which can be picked as power supplies.
+  Please make sure there are IO models with Current Drain models assigned to all relevant ICs.
+Aug 25, 2025 11:45:54 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view...
+Aug 25, 2025 11:45:54 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:45:54 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.sim.irdrop.IRDropManagerController
+Aug 25, 2025 11:45:54 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'IR Drop Analysis' view finished
+Aug 25, 2025 11:45:54 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:45:56 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@6d0ea3f0 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:46:29 PM com.simlab.pcbmod.design.custom.partlib.AssignGroundRefDialog apply
+INFO: Assign ground pins performed.
+Aug 25, 2025 11:46:34 PM com.simlab.pcbmod.design.custom.partlib.AssignGroundRefDialog apply
+INFO: Assign ground pins performed.
+Aug 25, 2025 11:46:43 PM com.simlab.pcbmod.design.custom.partlib.AssignGroundRefDialog apply
+INFO: Assign ground pins performed.
+Aug 25, 2025 11:46:48 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:46:48 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:46:48 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:46:48 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:48:02 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:48:02 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:48:02 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:48:02 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:48:02 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 27
+Aug 25, 2025 11:48:02 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:51:03 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:51:03 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:51:03 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:51:03 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:51:03 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 31
+Aug 25, 2025 11:51:03 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:54:04 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:54:04 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:54:04 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:54:04 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:54:04 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 28
+Aug 25, 2025 11:54:04 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:54:30 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:54:44 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:54:55 PM com.simlab.core.module.ModuleManager showViewEDT
+INFO: showViewEDT controller: com.cst.pcbs.PCBStudioEditShapeController@586d1996 module: class com.cst.pcbs.modules.PCBStudioShapeEditorModule
+Aug 25, 2025 11:55:08 PM com.simlab.pcbmod.design.custom.partlib.AssignGroundRefDialog apply
+INFO: Assign ground pins performed.
+Aug 25, 2025 11:55:11 PM com.simlab.pcbmod.design.custom.partlib.AssignGroundRefDialog apply
+INFO: Assign ground pins performed.
+Aug 25, 2025 11:55:15 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view...
+Aug 25, 2025 11:55:15 PM com.simlab.core.module.ClearViewThread <init>
+INFO: Prepare for cleaning: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:55:15 PM com.simlab.core.module.ClearViewThread doInBackground
+INFO: Cleaning finished: com.cst.pcbs.PCBStudioEditShapeController
+Aug 25, 2025 11:55:15 PM com.simlab.core.statusbar.StatusBarImpl showMessage
+INFO: Cleaning 'PCB Layout' view finished
+Aug 25, 2025 11:55:45 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.PCBSDeInterface
+method: notifyMousePress
+Aug 25, 2025 11:57:05 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: true
+Aug 25, 2025 11:57:05 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:57:05 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:57:05 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:57:05 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 30
+Aug 25, 2025 11:57:05 PM com.cst.core.SaveManager saveAs
+INFO: Autosaving finished.
+Aug 25, 2025 11:58:29 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.PCBSDeInterface
+method: notifyMousePress
+Aug 25, 2025 11:58:30 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:58:30 PM com.cst.de.bus.DEInterface SpecialKeystrokes
+INFO: SpecialKeystrokes
+Aug 25, 2025 11:58:31 PM com.cst.de.bus.DEInterface saveProjectImpl
+INFO: SaveProject Autosave: false
+Aug 25, 2025 11:58:31 PM com.cst.core.SaveManager saveAs
+INFO: Save As not necessary: new_path = old_path
+Aug 25, 2025 11:58:31 PM com.cst.core.SaveManager saveAs
+INFO: New_path=C:\Users\vakva\Documents\USB-PD-Voltage-supply simulation\USB-PD-Voltage-supply simulation\Model\PCBS\PCBDes.spj
+Aug 25, 2025 11:58:31 PM com.cst.core.SaveManager saveAs
+INFO: Saving all
+Aug 25, 2025 11:58:31 PM com.cst.pcbs.PCBSModel saveAthos
+INFO: Total save time needed: 28
+Aug 25, 2025 11:58:31 PM com.cst.core.SaveManager saveAs
+INFO: Saving finished.
+Aug 25, 2025 11:58:31 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.DSInterface
+method: GetProjectUnit
+Aug 25, 2025 11:58:31 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.DSInterface
+method: GetProjectUnit
+Aug 25, 2025 11:58:31 PM com.cst.bus.BusComm ProcessMethod
+SEVERE: Cannot find method:
+class: class com.cst.pcbs.DSInterface
+method: GetProjectUnit
+Aug 25, 2025 11:58:35 PM com.cst.de.bus.DEInterface onViewerClosedImpl
+INFO: OnViewerClosed_Slt->Bus->disconnect
+Aug 25, 2025 11:58:36 PM com.cst.core.StudioSystemExit exit
+INFO: End time: Mon Aug 25 23:58:36 MSK 2025
+Aug 25, 2025 11:58:36 PM com.cst.core.StudioSystemExit exit
+INFO: Exit code: 0
